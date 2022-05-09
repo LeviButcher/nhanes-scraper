@@ -3,11 +3,16 @@ module Main where
 import Control.Monad.Trans.Maybe (MaybeT (..))
 import qualified Data.ByteString.Lazy as BS
 import Data.Csv (encodeDefaultOrderedByName)
-import Lib (NHANSEYear (NHANSEYear), allCodeBooks, allYears, getAllDatasetsForAllYears, getAllDatasetsForYear, nhanseDatasetToCSVRecords)
+import Lib (allCodebooks)
+import Control.Monad.Trans.Maybe
 
 main :: IO ()
 main = do
-  saveAllToCSV
+  x <- runMaybeT allCodebooks
+  print $ take 5 <$> x
+
+
+
 
 -- let y = NHANSEYear "2003" "2004"
 -- res <- runMaybeT $ getAllDatasetsForYear y -- 2001 has problem
@@ -16,10 +21,4 @@ main = do
 
 saveAllToCSV :: IO ()
 saveAllToCSV = do
-  res <- runMaybeT getAllDatasetsForAllYears
-  case res of
-    Nothing -> putStrLn "Something failed boss"
-    Just x -> do
-      let res = x >>= nhanseDatasetToCSVRecords
-      BS.writeFile "results/nhanse_features.csv" (encodeDefaultOrderedByName res)
   return ()

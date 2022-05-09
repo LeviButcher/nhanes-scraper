@@ -2,7 +2,6 @@
 
 module Lib where
 
-import qualified CSV as C
 import Control.Applicative (Alternative (many, (<|>)))
 import Control.Exception (catch, try)
 import Control.Monad (join)
@@ -27,131 +26,81 @@ import Text.HTML.Scalpel
     (//),
     (@:),
     (@=),
+    seekNext,
+    seekBack,
+    stepBack,
+    inSerial
   )
 import Text.ParserCombinators.Parsec (GenParser, char, digit, many1, parse, string)
+import Types
+import Control.Monad.Trans.Maybe
 
-data Feature = Feature
-  { label :: String,
-    description :: String
-  }
-  deriving (Show)
 
-data NHANSEDataset = NHANSEDataset
-  { year :: NHANSEYear,
-    dataset :: [(CodeBook, [Feature])]
-  }
-  deriving (Show)
+allCodebooks :: MaybeT IO [Codebook]
+allCodebooks = return []
 
-data CodeBook = CodeBook
-  { name :: String,
-    url :: String,
-    codebookType :: C.CodeBookType
-  }
-  deriving (Show)
-
-data NHANSEYear = NHANSEYear
-  { startYear :: String,
-    endYear :: String
-  }
-  deriving (Show)
-
-nhanseDatasetToCSVRecords :: NHANSEDataset -> [C.NHANSERecord]
-nhanseDatasetToCSVRecords x = records
+allCodebooksForType :: CodebookType -> IO (Maybe [Codebook])
+allCodebooksForType t =  scrapeURL (getAllCodebooksURL t) codebooks
   where
-    y = year x
-    set = dataset x
-    records =
-      set
-        >>= ( \(codeB, features) ->
-                features <&> \f ->
-                  C.NHANSERecord
-                    { C.startYear = startYear y,
-                      C.endYear = endYear y,
-                      C.codebookName = name codeB,
-                      C.label = label f,
-                      C.description = description f,
-                      C.codebookType = show $ codebookType codeB
-                    }
-            )
+    codebooks :: Scraper String [Codebook]
+    codebooks = chroots ("tbody" @: [] // "tr") $ inSerial parseCodebookRow
 
-getAllDatasetsForAllYears :: MaybeT IO [NHANSEDataset]
-getAllDatasetsForAllYears = do
-  years <- MaybeT allYears
-  traverse getAllDatasetsForYear years
+    -- parseCodebookRow :: Scraper String Codebook
+    parseCodebookRow = do
 
-getAllDatasetsForYear :: NHANSEYear -> MaybeT IO NHANSEDataset
-getAllDatasetsForYear year = do
-  allCodeBooks <- MaybeT $ allCodeBooks year
-  let codeUrls = getFullCodeBookURL <$> allCodeBooks
-  features <- MaybeT $ sequence <$> traverse allFeatures codeUrls
+      yearText <- seekNext $ text "td"
+      name <- seekNext $ text "td"
+      docFile <- seekNext $ text (("td" // "a"))
+      stepBack $ text "td" -- Used to reposition cursor
+      docFileLink <- seekNext $ attr "href" ("td" // "a") -- Unsure
+      dataFile <- seekNext $ text (("td" // "a"))
+      stepBack $ text "td" -- Used to reposition cursor
+      dataFileLink <- seekNext $ attr "href" ("td" // "a") -- Unsure
+      published <- seekNext $ text "td"
 
-  return $ NHANSEDataset year (zip allCodeBooks features)
 
-getFullCodeBookURL :: CodeBook -> String
-getFullCodeBookURL y = buildURL (url y)
-  where
-    buildURL ('.' : '.' : '/' : xs) = "https://wwwn.cdc.gov/nchs/nhanes/search" ++ xs
-    buildURL x = "https://wwwn.cdc.gov" ++ x
+      let years = parse parseYear "Failed to parse Year" yearText
 
--- A couple codebook urls use a relative path  like "../<url>" causing this to fail
-allFeatures :: URL -> IO (Maybe [Feature])
-allFeatures url = catch (scrapeURL url features) (\(HttpExceptionRequest _ _) -> return Nothing)
-  where
-    features :: Scraper String [Feature]
-    features = chroots ("div" @: ["class" @= "pagebreak"]) parseFeature
+      return $ Codebook {
+          codebookType = Questionnaire,
+          years =  (5,5),
+          name = name,
+          docFile = docFile,
+          docFileLink = docFileLink,
+          dataFile = dataFile,
+          dataFileLink = dataFileLink,
+          published = published
+        }
 
-    parseFeature :: Scraper String Feature
-    parseFeature = do
-      [label, description] <- texts $ "dd" @: [hasClass "info"]
-      return $ Feature label description
 
-getCodeBooks :: NHANSEYear -> C.CodeBookType -> IO (Maybe [CodeBook])
-getCodeBooks nYear cType = scrapeURL (getCodeBooksURL cType nYear) codebooks
-  where
-    codebooks :: Scraper String [CodeBook]
-    codebooks = chroots ("table" @: ["id" @= "GridView1"] // "tbody" // "tr") codebook
-
-    codebook :: Scraper String CodeBook
-    codebook = do
-      name <- text $ "td" @: [hasClass "text-left"]
-      url <- attr "href" ("td" @: [hasClass "text-center"] // "a")
-      return $ CodeBook name url cType
-
-allCodeBooks :: NHANSEYear -> IO (Maybe [CodeBook])
-allCodeBooks nYear = fmap join . sequence <$> traverse (getCodeBooks nYear) C.allCodeBookTypes
-
-baseCodebook :: String
-baseCodebook = "https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component="
-
-getCodeBooksURL :: C.CodeBookType -> NHANSEYear -> URL
-getCodeBooksURL cType y = baseCodebook ++ typeParam cType ++ "&CycleBeginYear=" ++ startYear y
-  where
-    typeParam C.Dietary = "Dietary"
-    typeParam C.Demographics = "Demographics"
-    typeParam C.Examination = "Examination"
-    typeParam C.Laboratory = "Laboratory"
-    typeParam C.Questionnaire = "Questionnaire"
-
-nhanseYearSelector :: Selector
-nhanseYearSelector = "main" // "div" @: [hasClass "row"] // "div" @: [hasClass "card-title"]
-
-allYears :: IO (Maybe [NHANSEYear])
-allYears = scrapeURL "https://wwwn.cdc.gov/nchs/nhanes/Default.aspx" years
-  where
-    years :: Scraper String [NHANSEYear]
-    years = catMaybes <$> chroots nhanseYearSelector year
-
-    year :: Scraper String (Maybe NHANSEYear)
-    year = do
-      x <- text anySelector
-      let res = parse parseNhanseYear "Failed to parser" x
-
-      return $ either (const Nothing) Just res
-
-parseNhanseYear :: GenParser Char st NHANSEYear
-parseNhanseYear = do
+parseYear :: GenParser Char st (Int, Int)
+parseYear = do
   string "NHANES"
   s <- many1 digit
   char '-'
   e <- many1 digit
-  return $ NHANSEYear s e
+  return $ tupleBiMap read (s, e)
+
+  where 
+    tupleBiMap f (x,y) = (f x, f y)
+
+-- allComments :: IO (Maybe [Comment])
+-- allComments = scrapeURL "http://example.com/article.html" comments
+--    where
+--        comments :: Scraper String [Comment]
+--        comments = chroots ("div" @: [hasClass "container"]) comment
+
+--        comment :: Scraper String Comment
+--        comment = textComment <|> imageComment
+
+--        textComment :: Scraper String Comment
+--        textComment = do
+--            author      <- text $ "span" @: [hasClass "author"]
+--            commentText <- text $ "div"  @: [hasClass "text"]
+--            return $ TextComment author commentText
+
+--        imageComment :: Scraper String Comment
+--        imageComment = do
+--            author   <- text       $ "span" @: [hasClass "author"]
+--            imageURL <- attr "src" $ "img"  @: [hasClass "image"]
+--            return $ ImageComment author imageURL
