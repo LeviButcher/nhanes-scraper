@@ -3,8 +3,8 @@
 module Lib where
 
 import qualified CSV as C
-import Control.Applicative (Alternative (many))
-import Control.Exception (try)
+import Control.Applicative (Alternative (many, (<|>)))
+import Control.Exception (catch, try)
 import Control.Monad (join)
 import Control.Monad.IO.Class (MonadIO (liftIO))
 import Control.Monad.Trans.Maybe (MaybeT (MaybeT))
@@ -12,6 +12,7 @@ import Data.Functor ((<&>))
 import Data.List (uncons)
 import Data.Maybe (catMaybes)
 import Debug.Trace (trace)
+import Network.HTTP.Client (HttpException (HttpExceptionRequest))
 import Text.HTML.Scalpel
   ( Scraper,
     Selector,
@@ -73,13 +74,13 @@ nhanseDatasetToCSVRecords x = records
                     }
             )
 
-getAllYearsDatasets :: MaybeT IO [NHANSEDataset]
-getAllYearsDatasets = do
+getAllDatasetsForAllYears :: MaybeT IO [NHANSEDataset]
+getAllDatasetsForAllYears = do
   years <- MaybeT allYears
-  traverse getAllDatasetForYear years
+  traverse getAllDatasetsForYear years
 
-getAllDatasetForYear :: NHANSEYear -> MaybeT IO NHANSEDataset
-getAllDatasetForYear year = do
+getAllDatasetsForYear :: NHANSEYear -> MaybeT IO NHANSEDataset
+getAllDatasetsForYear year = do
   allCodeBooks <- MaybeT $ allCodeBooks year
   let codeUrls = getFullCodeBookURL <$> allCodeBooks
   features <- MaybeT $ sequence <$> traverse allFeatures codeUrls
@@ -87,10 +88,14 @@ getAllDatasetForYear year = do
   return $ NHANSEDataset year (zip allCodeBooks features)
 
 getFullCodeBookURL :: CodeBook -> String
-getFullCodeBookURL y = "https://wwwn.cdc.gov" ++ url y
+getFullCodeBookURL y = buildURL (url y)
+  where
+    buildURL ('.' : '.' : '/' : xs) = "https://wwwn.cdc.gov/nchs/nhanes/search" ++ xs
+    buildURL x = "https://wwwn.cdc.gov" ++ x
 
+-- A couple codebook urls use a relative path  like "../<url>" causing this to fail
 allFeatures :: URL -> IO (Maybe [Feature])
-allFeatures url = scrapeURL url features
+allFeatures url = catch (scrapeURL url features) (\(HttpExceptionRequest _ _) -> return Nothing)
   where
     features :: Scraper String [Feature]
     features = chroots ("div" @: ["class" @= "pagebreak"]) parseFeature
