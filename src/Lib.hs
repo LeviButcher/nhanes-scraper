@@ -11,7 +11,7 @@ import Data.Bifunctor (bimap)
 import Data.Either (fromRight)
 import Network.HTTP.Client (HttpException)
 import Text.HTML.Scalpel
-import Text.Parsec.Char (anyChar, crlf, tab)
+import Text.Parsec.Char (anyChar, crlf, space, tab)
 import Text.ParserCombinators.Parsec (GenParser, char, count, digit, many1, manyTill, parse, string)
 import Types
 
@@ -56,7 +56,7 @@ allCodebooksForType t = tryScrapeUrl (getAllCodebooksURL t) codebooks
             name = name,
             docFile = trim docFile,
             docFileLink = docFileLink,
-            dataFile = trim dataFile,
+            dataFile = fromRight "" $ parse parseDataFile "Failed To Parse Data File" (trim dataFile),
             dataFileLink = dataFileLink,
             published = trim published
           }
@@ -113,3 +113,6 @@ parseYear = do
   e <- many1 digit
 
   return $ bimap read read (s, e)
+
+parseDataFile :: GenParser Char st String
+parseDataFile = manyTill anyChar space
