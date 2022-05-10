@@ -12,10 +12,10 @@ import Data.Csv
 
 -- TODO
 -- [x] Codebook Data
---  [] Save as CSV
+--  [x] Save as CSV
 --  [] Save as JSON
--- [] Variable Data
---  [] Save as CSV
+-- [x] Variable Data
+--  [x] Save as CSV
 --  [] Save as JSON
 
 main :: IO ()

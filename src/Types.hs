@@ -15,7 +15,8 @@ codeBookTypes = [Questionnaire, Demographic, Dietary, Examination, Laboratory]
 
 data Codebook = Codebook {
     codebookType :: CodebookType,
-    years :: String,
+    startYear :: Int,
+    endYear :: Int,
     name :: String,
     docFile :: String,
     docFileLink :: URL,
@@ -47,8 +48,8 @@ data Variable = Variable {
     description :: String,
     codebookName :: String,
     codebookDescription :: String,
-    startYear :: Int,
-    endYear :: Int,
+    codebookStartYear :: Int,
+    codebookEndYear :: Int,
     constraints :: String
 } deriving (Generic, Show, Read)
 

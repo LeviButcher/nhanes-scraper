@@ -5,12 +5,14 @@ module Lib where
 
 import Control.Applicative (Alternative (many, (<|>)))
 import Text.HTML.Scalpel
-import Text.ParserCombinators.Parsec (GenParser, char, digit, many1, parse, string)
+import Text.ParserCombinators.Parsec (GenParser, char, digit, many1, parse, string, count, manyTill)
+import Text.Parsec.Char (crlf, tab, anyChar)
 import Control.Monad.Trans.Except
 import Types
 import Control.Monad.IO.Class (liftIO)
 import Control.Exception (try, Exception(..))
 import Network.HTTP.Client (HttpException)
+import Data.Either (fromRight)
 
 allCodebooks :: ExceptT ScraperException IO [Codebook]
 allCodebooks = mconcat <$> traverse allCodebooksForType codeBookTypes
@@ -46,17 +48,18 @@ allCodebooksForType t = tryScrapeUrl (getAllCodebooksURL t) codebooks
       published <- seekNext $ text "td"
 
 
-      let years = parse parseYear "Failed to parse Year" yearText -- TODO
+      let (start,end) = fromRight (-1,-1) $ parse parseYear "Failed to parse Year" yearText
 
       return $ Codebook {
           codebookType = t,
-          years =  yearText,
+          startYear = start,
+          endYear = end,
           name = name,
           docFile = docFile,
           docFileLink = docFileLink,
           dataFile = dataFile,
           dataFileLink = dataFileLink,
-          published = published
+          published = trim published
         }
 
 
@@ -86,15 +89,28 @@ allVariablesForType t = tryScrapeUrl (getAllVariablesURL t) variables
         description = description,
         codebookName = codebookName,
         codebookDescription = codebookDescription,
-        startYear = read startYear,
-        endYear = read endYear,
+        codebookStartYear = read startYear,
+        codebookEndYear = read endYear,
         constraints = constraints
       }
+
+-- This should remove any "/n/t" at start and end of string
+trim :: String -> String
+trim s = fromRight s $ parse parseTrimmer "Failed to trim" s
+
+-- "/r/n/t/t/t/t/t"
+parseTrimmer :: GenParser Char st String
+parseTrimmer = do
+  centeringChars
+  manyTill anyChar centeringChars
+
+centeringChars :: GenParser Char st String
+centeringChars = crlf >> many1 tab
 
 
 parseYear :: GenParser Char st (Int, Int)
 parseYear = do
-  string "NHANES"
+  centeringChars
   s <- many1 digit
   char '-'
   e <- many1 digit
