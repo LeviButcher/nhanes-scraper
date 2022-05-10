@@ -1,69 +1,56 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE TypeApplications #-}
 
 module Lib where
 
 import Control.Applicative (Alternative (many, (<|>)))
-import Control.Exception (catch, try)
-import Control.Monad (join)
-import Control.Monad.IO.Class (MonadIO (liftIO))
-import Control.Monad.Trans.Maybe (MaybeT (MaybeT))
-import Data.Functor ((<&>))
-import Data.List (uncons)
-import Data.Maybe (catMaybes)
-import Debug.Trace (trace)
-import Network.HTTP.Client (HttpException (HttpExceptionRequest))
 import Text.HTML.Scalpel
-  ( Scraper,
-    Selector,
-    URL,
-    anySelector,
-    attr,
-    chroots,
-    hasClass,
-    scrapeURL,
-    text,
-    texts,
-    (//),
-    (@:),
-    (@=),
-    seekNext,
-    seekBack,
-    stepBack,
-    inSerial
-  )
 import Text.ParserCombinators.Parsec (GenParser, char, digit, many1, parse, string)
+import Control.Monad.Trans.Except
 import Types
-import Control.Monad.Trans.Maybe
+import Control.Monad.IO.Class (liftIO)
+import Control.Exception (try, Exception(..))
+import Network.HTTP.Client (HttpException)
+
+allCodebooks :: ExceptT ScraperException IO [Codebook]
+allCodebooks = mconcat <$> traverse allCodebooksForType codeBookTypes
 
 
-allCodebooks :: MaybeT IO [Codebook]
-allCodebooks = return []
+data ScraperException = HttpFailure HttpException | ParseFailure
+  deriving (Show)
 
-allCodebooksForType :: CodebookType -> IO (Maybe [Codebook])
-allCodebooksForType t =  scrapeURL (getAllCodebooksURL t) codebooks
+tryScrapeUrl :: URL -> Scraper String a -> ExceptT ScraperException IO a
+tryScrapeUrl s scraper = do
+  res <- withExceptT HttpFailure . ExceptT . try @HttpException $ scrapeURL s scraper
+  except $ case res of
+    Nothing -> Left ParseFailure
+    Just x -> Right x
+
+
+allCodebooksForType :: CodebookType -> ExceptT ScraperException IO [Codebook]
+allCodebooksForType t = tryScrapeUrl (getAllCodebooksURL t) codebooks
   where
     codebooks :: Scraper String [Codebook]
-    codebooks = chroots ("tbody" @: [] // "tr") $ inSerial parseCodebookRow
+    codebooks = chroots ("tbody" // "tr") $ inSerial parseCodebookRow
 
-    -- parseCodebookRow :: Scraper String Codebook
+    parseCodebookRow :: SerialScraper String Codebook
     parseCodebookRow = do
-
       yearText <- seekNext $ text "td"
       name <- seekNext $ text "td"
       docFile <- seekNext $ text (("td" // "a"))
       stepBack $ text "td" -- Used to reposition cursor
-      docFileLink <- seekNext $ attr "href" ("td" // "a") -- Unsure
+      docFileLink <- seekNext $ attr "href" ("td" // "a") -- Need to handle if its not there
       dataFile <- seekNext $ text (("td" // "a"))
       stepBack $ text "td" -- Used to reposition cursor
-      dataFileLink <- seekNext $ attr "href" ("td" // "a") -- Unsure
+      dataFileLink <- seekNext $ attr "href" ("td" // "a") -- Need to handle if its not there
       published <- seekNext $ text "td"
 
 
-      let years = parse parseYear "Failed to parse Year" yearText
+      let years = parse parseYear "Failed to parse Year" yearText -- TODO
 
       return $ Codebook {
-          codebookType = Questionnaire,
-          years =  (5,5),
+          codebookType = t,
+          years =  yearText,
           name = name,
           docFile = docFile,
           docFileLink = docFileLink,
@@ -71,6 +58,38 @@ allCodebooksForType t =  scrapeURL (getAllCodebooksURL t) codebooks
           dataFileLink = dataFileLink,
           published = published
         }
+
+
+allVariables :: ExceptT ScraperException IO [Variable]
+allVariables = mconcat <$> traverse allVariablesForType codeBookTypes
+
+allVariablesForType :: CodebookType -> ExceptT ScraperException IO [Variable]
+allVariablesForType t = tryScrapeUrl (getAllVariablesURL t) variables
+  where
+    variables :: Scraper String [Variable]
+    variables = chroots ("tbody" // "tr") $ inSerial parseVariableRow
+
+    parseVariableRow :: SerialScraper String Variable
+    parseVariableRow = do
+      name <- seekNext $ text "td"
+      description <- seekNext $ text "td"
+      codebookName <- seekNext $ text "td"
+      codebookDescription <- seekNext $ text "td"
+      startYear <- seekNext $ text "td"
+      endYear <- seekNext $ text "td"
+      seekNext $ text "td"
+      constraints <- seekNext $ text "td"
+
+      return $ Variable {
+        codebooksType = t,
+        varName = name,
+        description = description,
+        codebookName = codebookName,
+        codebookDescription = codebookDescription,
+        startYear = read startYear,
+        endYear = read endYear,
+        constraints = constraints
+      }
 
 
 parseYear :: GenParser Char st (Int, Int)
@@ -83,24 +102,3 @@ parseYear = do
 
   where 
     tupleBiMap f (x,y) = (f x, f y)
-
--- allComments :: IO (Maybe [Comment])
--- allComments = scrapeURL "http://example.com/article.html" comments
---    where
---        comments :: Scraper String [Comment]
---        comments = chroots ("div" @: [hasClass "container"]) comment
-
---        comment :: Scraper String Comment
---        comment = textComment <|> imageComment
-
---        textComment :: Scraper String Comment
---        textComment = do
---            author      <- text $ "span" @: [hasClass "author"]
---            commentText <- text $ "div"  @: [hasClass "text"]
---            return $ TextComment author commentText
-
---        imageComment :: Scraper String Comment
---        imageComment = do
---            author   <- text       $ "span" @: [hasClass "author"]
---            imageURL <- attr "src" $ "img"  @: [hasClass "image"]
---            return $ ImageComment author imageURL

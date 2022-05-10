@@ -3,22 +3,34 @@ module Main where
 import Control.Monad.Trans.Maybe (MaybeT (..))
 import qualified Data.ByteString.Lazy as BS
 import Data.Csv (encodeDefaultOrderedByName)
-import Lib (allCodebooks)
-import Control.Monad.Trans.Maybe
+import Lib 
+import Control.Monad.Trans.Except
+import Types
+import Control.Monad
+import Control.Monad.IO.Class (MonadIO (liftIO))
+import Data.Csv
+
+-- TODO
+-- [x] Codebook Data
+--  [] Save as CSV
+--  [] Save as JSON
+-- [] Variable Data
+--  [] Save as CSV
+--  [] Save as JSON
 
 main :: IO ()
 main = do
-  x <- runMaybeT allCodebooks
-  print $ take 5 <$> x
+  res <- runExceptT app
+  print res
 
 
+app :: ExceptT ScraperException IO ()
+app = do
+  codebooks <- allCodebooks
+  liftIO $ BS.writeFile "results/nhanes_codebooks.csv" (encodeDefaultOrderedByName codebooks)
+  liftIO $ print codebooks
 
-
--- let y = NHANSEYear "2003" "2004"
--- res <- runMaybeT $ getAllDatasetsForYear y -- 2001 has problem
--- res <- allCodeBooks y
--- print res
-
-saveAllToCSV :: IO ()
-saveAllToCSV = do
+  vars <- allVariables
+  liftIO $ BS.writeFile "results/nhanes_variables.csv" (encodeDefaultOrderedByName vars)
+  liftIO $ print vars
   return ()
