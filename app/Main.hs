@@ -1,36 +1,31 @@
 module Main where
 
-import Control.Monad.Trans.Maybe (MaybeT (..))
-import qualified Data.ByteString.Lazy as BS
-import Data.Csv (encodeDefaultOrderedByName)
-import Lib 
-import Control.Monad.Trans.Except
-import Types
 import Control.Monad
 import Control.Monad.IO.Class (MonadIO (liftIO))
-import Data.Csv
-
--- TODO
--- [x] Codebook Data
---  [x] Save as CSV
---  [] Save as JSON
--- [x] Variable Data
---  [x] Save as CSV
---  [] Save as JSON
+import Control.Monad.Trans.Except
+import Control.Monad.Trans.Maybe (MaybeT (..))
+import qualified Data.ByteString.Lazy as BS
+import Data.Csv (DefaultOrdered, ToNamedRecord, encodeDefaultOrderedByName)
+import Lib (ScraperException, allCodebooks, allVariables)
+import Text.HTML.Scalpel (URL)
 
 main :: IO ()
 main = do
   res <- runExceptT app
   print res
 
-
 app :: ExceptT ScraperException IO ()
 app = do
   codebooks <- allCodebooks
-  liftIO $ BS.writeFile "results/nhanes_codebooks.csv" (encodeDefaultOrderedByName codebooks)
-  liftIO $ print codebooks
+  liftIO $ writeCSV "results/nhanes_codebooks.csv" codebooks
 
   vars <- allVariables
-  liftIO $ BS.writeFile "results/nhanes_variables.csv" (encodeDefaultOrderedByName vars)
-  liftIO $ print vars
+  liftIO $ writeCSV "results/nhanes_variables.csv" vars
+
   return ()
+
+-- Could catch if file fails to save
+writeCSV :: (DefaultOrdered a, ToNamedRecord a, Show a) => URL -> [a] -> IO ()
+writeCSV url x = do
+  print x
+  BS.writeFile url (encodeDefaultOrderedByName x)

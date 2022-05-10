@@ -23,6 +23,15 @@ Questionnaire,2013,2014,Alcohol Use,ALQ_H Doc,/Nchs/Nhanes/2013-2014/ALQ_H.htm,A
 Questionnaire,2015,2016,Alcohol Use,ALQ_I Doc,/Nchs/Nhanes/2015-2016/ALQ_I.htm,ALQ_I Data [XPT - 450.2 KB],/Nchs/Nhanes/2015-2016/ALQ_I.XPT,March 2018
 Questionnaire,2017,2018,Alcohol Use,ALQ_J Doc,/Nchs/Nhanes/2017-2018/ALQ_J.htm,ALQ_J Data [XPT - 434.4 KB],/Nchs/Nhanes/2017-2018/ALQ_J.XPT,December 2020
 Questionnaire,2017,2020,Alcohol Use,P_ALQ Doc,/Nchs/Nhanes/2017-2018/P_ALQ.htm,P_ALQ Data [XPT - 702.5 KB],/Nchs/Nhanes/2017-2018/P_ALQ.XPT,January 2022
+Questionnaire,2007,2008,Alcohol Use - Youth,ALQYTH_E Doc,/Nchs/Nhanes/limited_access/ALQYTH_E.htm,RDC Only,No Link,RDC Only
+Questionnaire,2005,2006,Alcohol Use - Youth,ALQYTH_D Doc,/Nchs/Nhanes/limited_access/ALQYTH_D.htm,RDC Only,No Link,RDC Only
+Questionnaire,1999,2000,Alcohol Use - Youth,ALQYTH Doc,/Nchs/Nhanes/limited_access/ALQYTH.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Alcohol Use - Youth,ALQY_F_R Doc,/Nchs/Nhanes/limited_access/ALQY_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Alcohol Use - Youth,ALQY_G_R Doc,/Nchs/Nhanes/limited_access/ALQY_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Alcohol Use - Youth,ALQY_H_R Doc,/Nchs/Nhanes/limited_access/ALQY_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Alcohol Use - Youth,ALQY_I_R Doc,/Nchs/Nhanes/limited_access/ALQY_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Alcohol Use - Youth,ALQY_J_R Doc,/Nchs/Nhanes/limited_access/ALQY_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Alcohol Use - Youth,P_ALQY_R Doc,/Nchs/Nhanes/limited_access/P_ALQY_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2009,2010,Alcohol Use (Ages 18-19),ALQY_F Doc,/Nchs/Nhanes/2009-2010/ALQY_F.htm,ALQY_F Data [XPT - 13.2 KB],/Nchs/Nhanes/2009-2010/ALQY_F.XPT,January 2012
 Questionnaire,2005,2006,Allergy,AGQ_D Doc,/Nchs/Nhanes/2005-2006/AGQ_D.htm,AGQ_D Data [XPT - 1.8 MB],/Nchs/Nhanes/2005-2006/AGQ_D.XPT,June 2008
 Questionnaire,1999,2000,Analgesic Pain Relievers,RXQ_ANA Doc,/Nchs/Nhanes/1999-2000/RXQ_ANA.htm,RXQ_ANA Data [XPT - 279.2 KB],/Nchs/Nhanes/1999-2000/RXQ_ANA.XPT,June 2002
@@ -71,12 +80,14 @@ Questionnaire,1999,2000,Cognitive Functioning,CFQ Doc,/Nchs/Nhanes/1999-2000/CFQ
 Questionnaire,2001,2002,Cognitive Functioning,CFQ_B Doc,/Nchs/Nhanes/2001-2002/CFQ_B.htm,CFQ_B Data [XPT - 118.8 KB],/Nchs/Nhanes/2001-2002/CFQ_B.XPT,January 2005
 Questionnaire,2011,2012,Cognitive Functioning ,CFQ_G Doc,/Nchs/Nhanes/2011-2012/CFQ_G.htm,CFQ_G Data [XPT - 253.8 KB],/Nchs/Nhanes/2011-2012/CFQ_G.XPT,March 2017
 Questionnaire,2013,2014,Cognitive Functioning ,CFQ_H Doc,/Nchs/Nhanes/2013-2014/CFQ_H.htm,CFQ_H Data [XPT - 268.4 KB],/Nchs/Nhanes/2013-2014/CFQ_H.XPT,March 2017
+Questionnaire,2019,2020,Cognitive Functioning ,CFQ_K_R Doc,/Nchs/Nhanes/limited_access/CFQ_K_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Consumer Behavior,CBQ_E Doc,/Nchs/Nhanes/2007-2008/CBQ_E.htm,CBQ_E Data [XPT - 1.4 MB],/Nchs/Nhanes/2007-2008/CBQ_E.XPT,May 2010
 Questionnaire,2009,2010,Consumer Behavior,CBQ_F Doc,/Nchs/Nhanes/2009-2010/CBQ_F.htm,CBQ_F Data [XPT - 1.5 MB],/Nchs/Nhanes/2009-2010/CBQ_F.XPT,February 2013
 Questionnaire,2011,2012,Consumer Behavior,CBQ_G Doc,/Nchs/Nhanes/2011-2012/CBQ_G.htm,CBQ_G Data [XPT - 458.9 KB],/Nchs/Nhanes/2011-2012/CBQ_G.XPT,February 2015
 Questionnaire,2013,2014,Consumer Behavior,CBQ_H Doc,/Nchs/Nhanes/2013-2014/CBQ_H.htm,CBQ_H Data [XPT - 478.5 KB],/Nchs/Nhanes/2013-2014/CBQ_H.XPT,November 2015
 Questionnaire,2015,2016,Consumer Behavior,CBQ_I Doc,/Nchs/Nhanes/2015-2016/CBQ_I.htm,CBQ_I Data [XPT - 469 KB],/Nchs/Nhanes/2015-2016/CBQ_I.XPT,September 2018
 Questionnaire,2017,2018,Consumer Behavior,CBQ_J Doc,/Nchs/Nhanes/2017-2018/CBQ_J.htm,CBQ_J Data [XPT - 435.4 KB],/Nchs/Nhanes/2017-2018/CBQ_J.XPT,April 2021
+Questionnaire,2017,2020,Consumer Behavior,P_CBQ_R Doc,/Nchs/Nhanes/limited_access/P_CBQ_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Consumer Behavior Phone Follow-up Module - Adult,CBQPFA_E Doc,/Nchs/Nhanes/2007-2008/CBQPFA_E.htm,CBQPFA_E Data [XPT - 2.7 MB],/Nchs/Nhanes/2007-2008/CBQPFA_E.XPT,April 2012
 Questionnaire,2009,2010,Consumer Behavior Phone Follow-up Module - Adult,CBQPFA_F Doc,/Nchs/Nhanes/2009-2010/CBQPFA_F.htm,CBQPFA_F Data [XPT - 4.3 MB],/Nchs/Nhanes/2009-2010/CBQPFA_F.XPT,April 2013
 Questionnaire,2017,2018,Consumer Behavior Phone Follow-up Module - Adult,CBQPFA_J Doc,/Nchs/Nhanes/2017-2018/CBQPFA_J.htm,CBQPFA_J Data [XPT - 2.7 MB],/Nchs/Nhanes/2017-2018/CBQPFA_J.XPT,June 2021
@@ -100,6 +111,7 @@ Questionnaire,2005,2006,Dermatology,DEQ_D Doc,/Nchs/Nhanes/2005-2006/DEQ_D.htm,D
 Questionnaire,1999,2000,Dermatology,DEQ Doc,/Nchs/Nhanes/1999-2000/DEQ.htm,DEQ Data [XPT - 3.5 MB],/Nchs/Nhanes/1999-2000/DEQ.XPT,June 2002
 Questionnaire,2003,2004,Dermatology,DEQ_C Doc,/Nchs/Nhanes/2003-2004/DEQ_C.htm,DEQ_C Data [XPT - 691.4 KB],/Nchs/Nhanes/2003-2004/DEQ_C.XPT,August 2006
 Questionnaire,2001,2002,Dermatology,DEQ_B Doc,/Nchs/Nhanes/2001-2002/DEQ_B.htm,DEQ_B Data [XPT - 500.9 KB],/Nchs/Nhanes/2001-2002/DEQ_B.XPT,May 2004
+Questionnaire,2007,2008,Dermatology,DEQ_E_R Doc,/Nchs/Nhanes/limited_access/DEQ_E_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2009,2010,Dermatology,DEQ_F Doc,/Nchs/Nhanes/2009-2010/DEQ_F.htm,DEQ_F Data [XPT - 293.4 KB],/Nchs/Nhanes/2009-2010/DEQ_F.XPT,Updated August 2017
 Questionnaire,2013,2014,Dermatology,DEQ_H Doc,/Nchs/Nhanes/2013-2014/DEQ_H.htm,DEQ_H Data [XPT - 278.2 KB],/Nchs/Nhanes/2013-2014/DEQ_H.XPT,Updated August 2017
 Questionnaire,2011,2012,Dermatology,DEQ_G Doc,/Nchs/Nhanes/2011-2012/DEQ_G.htm,DEQ_G Data [XPT - 267 KB],/Nchs/Nhanes/2011-2012/DEQ_G.XPT,Updated August 2017
@@ -128,6 +140,7 @@ Questionnaire,2013,2014,Diet Behavior & Nutrition,DBQ_H Doc,/Nchs/Nhanes/2013-20
 Questionnaire,2015,2016,Diet Behavior & Nutrition,DBQ_I Doc,/Nchs/Nhanes/2015-2016/DBQ_I.htm,DBQ_I Data [XPT - 3.9 MB],/Nchs/Nhanes/2015-2016/DBQ_I.XPT,November 2018
 Questionnaire,2017,2018,Diet Behavior & Nutrition,DBQ_J Doc,/Nchs/Nhanes/2017-2018/DBQ_J.htm,DBQ_J Data [XPT - 3.3 MB],/Nchs/Nhanes/2017-2018/DBQ_J.XPT,February 2020
 Questionnaire,2017,2020,Diet Behavior & Nutrition,P_DBQ Doc,/Nchs/Nhanes/2017-2018/P_DBQ.htm,P_DBQ Data [XPT - 5.5 MB],/Nchs/Nhanes/2017-2018/P_DBQ.XPT,Updated December 2021
+Questionnaire,2019,2020,Diet Behavior & Nutrition - B24 Project,DB24_K_R Doc,/Nchs/Nhanes/limited_access/DB24_K_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2013,2014,Disability,DLQ_H Doc,/Nchs/Nhanes/2013-2014/DLQ_H.htm,DLQ_H Data [XPT - 536 KB],/Nchs/Nhanes/2013-2014/DLQ_H.XPT,October 2015
 Questionnaire,2015,2016,Disability,DLQ_I Doc,/Nchs/Nhanes/2015-2016/DLQ_I.htm,DLQ_I Data [XPT - 975 KB],/Nchs/Nhanes/2015-2016/DLQ_I.XPT,September 2017
 Questionnaire,2017,2018,Disability,DLQ_J Doc,/Nchs/Nhanes/2017-2018/DLQ_J.htm,DLQ_J Data [XPT - 906.2 KB],/Nchs/Nhanes/2017-2018/DLQ_J.XPT,February 2020
@@ -141,6 +154,14 @@ Questionnaire,2011,2012,Drug Use,DUQ_G Doc,/Nchs/Nhanes/2011-2012/DUQ_G.htm,DUQ_
 Questionnaire,2013,2014,Drug Use,DUQ_H Doc,/Nchs/Nhanes/2013-2014/DUQ_H.htm,DUQ_H Data [XPT - 1.6 MB],/Nchs/Nhanes/2013-2014/DUQ_H.XPT,March 2016
 Questionnaire,2015,2016,Drug Use,DUQ_I Doc,/Nchs/Nhanes/2015-2016/DUQ_I.htm,DUQ_I Data [XPT - 1.6 MB],/Nchs/Nhanes/2015-2016/DUQ_I.XPT,May 2018
 Questionnaire,2017,2018,Drug Use,DUQ_J Doc,/Nchs/Nhanes/2017-2018/DUQ_J.htm,DUQ_J Data [XPT - 1.4 MB],/Nchs/Nhanes/2017-2018/DUQ_J.XPT,February 2020
+Questionnaire,2017,2020,Drug Use,P_DUQ_R Doc,/Nchs/Nhanes/limited_access/P_DUQ_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2007,2008,Drug Use - Youth,DUQYTH_E Doc,/Nchs/Nhanes/limited_access/DUQYTH_E.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Drug Use - Youth,DUQY_F_R Doc,/Nchs/Nhanes/limited_access/DUQY_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Drug Use - Youth,DUQY_G_R Doc,/Nchs/Nhanes/limited_access/DUQY_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Drug Use - Youth,DUQY_H_R Doc,/Nchs/Nhanes/limited_access/DUQY_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Drug Use - Youth,DUQY_I_R Doc,/Nchs/Nhanes/limited_access/DUQY_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Drug Use - Youth,DUQY_J_R Doc,/Nchs/Nhanes/limited_access/DUQY_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Drug Use - Youth,P_DUQY_R Doc,/Nchs/Nhanes/limited_access/P_DUQY_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Early Childhood,ECQ_E Doc,/Nchs/Nhanes/2007-2008/ECQ_E.htm,ECQ_E Data [XPT - 396.8 KB],/Nchs/Nhanes/2007-2008/ECQ_E.XPT,September 2009
 Questionnaire,1999,2000,Early Childhood,ECQ Doc,/Nchs/Nhanes/1999-2000/ECQ.htm,ECQ Data [XPT - 462.3 KB],/Nchs/Nhanes/1999-2000/ECQ.XPT,June 2002
 Questionnaire,2005,2006,Early Childhood,ECQ_D Doc,/Nchs/Nhanes/2005-2006/ECQ_D.htm,ECQ_D Data [XPT - 463 KB],/Nchs/Nhanes/2005-2006/ECQ_D.XPT,December 2007
@@ -152,6 +173,7 @@ Questionnaire,2013,2014,Early Childhood,ECQ_H Doc,/Nchs/Nhanes/2013-2014/ECQ_H.h
 Questionnaire,2015,2016,Early Childhood,ECQ_I Doc,/Nchs/Nhanes/2015-2016/ECQ_I.htm,ECQ_I Data [XPT - 286.8 KB],/Nchs/Nhanes/2015-2016/ECQ_I.XPT,December 2017
 Questionnaire,2017,2018,Early Childhood,ECQ_J Doc,/Nchs/Nhanes/2017-2018/ECQ_J.htm,ECQ_J Data [XPT - 243.8 KB],/Nchs/Nhanes/2017-2018/ECQ_J.XPT,February 2020
 Questionnaire,2017,2020,Early Childhood,P_ECQ Doc,/Nchs/Nhanes/2017-2018/P_ECQ.htm,P_ECQ Data [XPT - 421.2 KB],/Nchs/Nhanes/2017-2018/P_ECQ.XPT,July 2021
+Questionnaire,2019,2020,Early Childhood - B24 Project,EC24_K_R Doc,/Nchs/Nhanes/limited_access/EC24_K_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,1999,2000,Food Security,FSQ Doc,/Nchs/Nhanes/1999-2000/FSQ.htm,FSQ Data [XPT - 1.2 MB],/Nchs/Nhanes/1999-2000/FSQ.XPT,November 2004
 Questionnaire,2007,2008,Food Security,FSQ_E Doc,/Nchs/Nhanes/2007-2008/FSQ_E.htm,FSQ_E Data [XPT - 3.4 MB],/Nchs/Nhanes/2007-2008/FSQ_E.XPT,July 2010
 Questionnaire,2005,2006,Food Security,FSQ_D Doc,/Nchs/Nhanes/2005-2006/FSQ_D.htm,FSQ_D Data [XPT - 3.2 MB],/Nchs/Nhanes/2005-2006/FSQ_D.XPT,January 2008
@@ -163,6 +185,15 @@ Questionnaire,2013,2014,Food Security,FSQ_H Doc,/Nchs/Nhanes/2013-2014/FSQ_H.htm
 Questionnaire,2015,2016,Food Security,FSQ_I Doc,/Nchs/Nhanes/2015-2016/FSQ_I.htm,FSQ_I Data [XPT - 3.7 MB],/Nchs/Nhanes/2015-2016/FSQ_I.XPT,Updated February 2022
 Questionnaire,2017,2018,Food Security,FSQ_J Doc,/Nchs/Nhanes/2017-2018/FSQ_J.htm,FSQ_J Data [XPT - 3.5 MB],/Nchs/Nhanes/2017-2018/FSQ_J.XPT,Updated February 2022
 Questionnaire,2017,2020,Food Security,P_FSQ Doc,/Nchs/Nhanes/2017-2018/P_FSQ.htm,P_FSQ Data [XPT - 2.4 MB],/Nchs/Nhanes/2017-2018/P_FSQ.XPT,February 2022
+Questionnaire,2007,2008,Food Security - Pregnant Women,FSQ_E_R Doc,/Nchs/Nhanes/limited_access/FSQ_E_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Food Security - Pregnant Women,FSQ_F_R Doc,/Nchs/Nhanes/limited_access/FSQ_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Food Security - Pregnant Women,FSQ_G_R Doc,/Nchs/Nhanes/limited_access/FSQ_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Food Security - Pregnant Women,FSQ_H_R Doc,/Nchs/Nhanes/limited_access/FSQ_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Food Security - Pregnant Women,FSQ_I_R Doc,/Nchs/Nhanes/limited_access/FSQ_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Food Security - Pregnant Women,FSQ_J_R Doc,/Nchs/Nhanes/limited_access/FSQ_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Food Security - Pregnant Women,P_FSQ_R Doc,/Nchs/Nhanes/limited_access/P_FSQ_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2019,2020,Functioning - Adult ,FNQA_K_R Doc,/Nchs/Nhanes/limited_access/FNQA_K_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2019,2020,Functioning - Child,FNQC_K_R Doc,/Nchs/Nhanes/limited_access/FNQC_K_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Health Insurance,HIQ_E Doc,/Nchs/Nhanes/2007-2008/HIQ_E.htm,HIQ_E Data [XPT - 1.3 MB],/Nchs/Nhanes/2007-2008/HIQ_E.XPT,September 2009
 Questionnaire,1999,2000,Health Insurance,HIQ Doc,/Nchs/Nhanes/1999-2000/HIQ.htm,HIQ Data [XPT - 780.6 KB],/Nchs/Nhanes/1999-2000/HIQ.XPT,July 2004
 Questionnaire,2005,2006,Health Insurance,HIQ_D Doc,/Nchs/Nhanes/2005-2006/HIQ_D.htm,HIQ_D Data [XPT - 1.3 MB],/Nchs/Nhanes/2005-2006/HIQ_D.XPT,November 2007
@@ -205,6 +236,7 @@ Questionnaire,2011,2012,Housing Characteristics,HOQ_G Doc,/Nchs/Nhanes/2011-2012
 Questionnaire,2013,2014,Housing Characteristics,HOQ_H Doc,/Nchs/Nhanes/2013-2014/HOQ_H.htm,HOQ_H Data [XPT - 239.7 KB],/Nchs/Nhanes/2013-2014/HOQ_H.XPT,October 2015
 Questionnaire,2015,2016,Housing Characteristics,HOQ_I Doc,/Nchs/Nhanes/2015-2016/HOQ_I.htm,HOQ_I Data [XPT - 234.9 KB],/Nchs/Nhanes/2015-2016/HOQ_I.XPT,September 2017
 Questionnaire,2017,2018,Housing Characteristics,HOQ_J Doc,/Nchs/Nhanes/2017-2018/HOQ_J.htm,HOQ_J Data [XPT - 218.1 KB],/Nchs/Nhanes/2017-2018/HOQ_J.XPT,December 2020
+Questionnaire,2017,2020,Housing Characteristics,P_HOQ_R Doc,/Nchs/Nhanes/limited_access/P_HOQ_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Immunization,IMQ_E Doc,/Nchs/Nhanes/2007-2008/IMQ_E.htm,IMQ_E Data [XPT - 397.9 KB],/Nchs/Nhanes/2007-2008/IMQ_E.XPT,September 2009
 Questionnaire,1999,2000,Immunization,IMQ Doc,/Nchs/Nhanes/1999-2000/IMQ.htm,IMQ Data [XPT - 312.7 KB],/Nchs/Nhanes/1999-2000/IMQ.XPT,June 2002
 Questionnaire,2005,2006,Immunization,IMQ_D Doc,/Nchs/Nhanes/2005-2006/IMQ_D.htm,IMQ_D Data [XPT - 243.8 KB],/Nchs/Nhanes/2005-2006/IMQ_D.XPT,January 2008
@@ -245,6 +277,11 @@ Questionnaire,2013,2014,Medical Conditions,MCQ_H Doc,/Nchs/Nhanes/2013-2014/MCQ_
 Questionnaire,2015,2016,Medical Conditions,MCQ_I Doc,/Nchs/Nhanes/2015-2016/MCQ_I.htm,MCQ_I Data [XPT - 6.6 MB],/Nchs/Nhanes/2015-2016/MCQ_I.XPT,September 2017
 Questionnaire,2017,2018,Medical Conditions,MCQ_J Doc,/Nchs/Nhanes/2017-2018/MCQ_J.htm,MCQ_J Data [XPT - 5.2 MB],/Nchs/Nhanes/2017-2018/MCQ_J.XPT,February 2020
 Questionnaire,2017,2020,Medical Conditions,P_MCQ Doc,/Nchs/Nhanes/2017-2018/P_MCQ.htm,P_MCQ Data [XPT - 7.2 MB],/Nchs/Nhanes/2017-2018/P_MCQ.XPT,August 2021
+Questionnaire,2000,2004,Mental Health - Attention Deficit Disorder/Hyperactivity - Youth,YDQA Doc,/Nchs/Nhanes/limited_access/YDQA.htm,RDC Only,No Link,RDC Only
+Questionnaire,1999,2000,Mental Health - Conduct Disorder - Youth,YCQ Doc,/Nchs/Nhanes/limited_access/YCQ.htm,RDC Only,No Link,RDC Only
+Questionnaire,2001,2002,Mental Health - Conduct Disorder - Youth,YCQ_B Doc,/Nchs/Nhanes/limited_access/YCQ_B.htm,RDC Only,No Link,RDC Only
+Questionnaire,2003,2004,Mental Health - Conduct Disorder - Youth,YCQ_C Doc,/Nchs/Nhanes/limited_access/YCQ_C.htm,RDC Only,No Link,RDC Only
+Questionnaire,2000,2004,"Mental Health - Conduct Disorder - Youth, Parent Version",YDQC Doc,/Nchs/Nhanes/limited_access/YDQC.htm,RDC Only,No Link,RDC Only
 Questionnaire,1999,2000,Mental Health - Depression,CIQMDEP Doc,/Nchs/Nhanes/1999-2000/CIQMDEP.htm,CIQMDEP Data [XPT - 1.1 MB],/Nchs/Nhanes/1999-2000/CIQMDEP.XPT,Updated March 2006
 Questionnaire,2003,2004,Mental Health - Depression,CIQDEP_C Doc,/Nchs/Nhanes/2003-2004/CIQDEP_C.htm,CIQDEP_C Data [XPT - 915.7 KB],/Nchs/Nhanes/2003-2004/CIQDEP_C.XPT,August 2006
 Questionnaire,2001,2002,Mental Health - Depression,CIQDEP_B Doc,/Nchs/Nhanes/2001-2002/CIQDEP_B.htm,CIQDEP_B Data [XPT - 1005.3 KB],/Nchs/Nhanes/2001-2002/CIQDEP_B.XPT,March 2006
@@ -256,12 +293,26 @@ Questionnaire,2013,2014,Mental Health - Depression Screener,DPQ_H Doc,/Nchs/Nhan
 Questionnaire,2015,2016,Mental Health - Depression Screener,DPQ_I Doc,/Nchs/Nhanes/2015-2016/DPQ_I.htm,DPQ_I Data [XPT - 495.2 KB],/Nchs/Nhanes/2015-2016/DPQ_I.XPT,December 2017
 Questionnaire,2017,2018,Mental Health - Depression Screener,DPQ_J Doc,/Nchs/Nhanes/2017-2018/DPQ_J.htm,DPQ_J Data [XPT - 477.8 KB],/Nchs/Nhanes/2017-2018/DPQ_J.XPT,February 2020
 Questionnaire,2017,2020,Mental Health - Depression Screener,P_DPQ Doc,/Nchs/Nhanes/2017-2018/P_DPQ.htm,P_DPQ Data [XPT - 772.7 KB],/Nchs/Nhanes/2017-2018/P_DPQ.XPT,June 2021
+Questionnaire,2007,2008,Mental Health - Depression Screener - Youth,DPQYTH_E Doc,/Nchs/Nhanes/limited_access/DPQYTH_E.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Mental Health - Depression Screener - Youth,DPQY_F_R Doc,/Nchs/Nhanes/limited_access/DPQY_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2005,2006,Mental Health - Depression Screener - Youth,DPQYTH_D Doc,/Nchs/Nhanes/limited_access/DPQYTH_D.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Mental Health - Depression Screener - Youth,DPQY_G_R Doc,/Nchs/Nhanes/limited_access/DPQY_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Mental Health - Depression Screener - Youth,DPQY_H_R Doc,/Nchs/Nhanes/limited_access/DPQY_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Mental Health - Depression Screener - Youth,DPQY_I_R Doc,/Nchs/Nhanes/limited_access/DPQY_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Mental Health - Depression Screener - Youth,DPQY_J_R Doc,/Nchs/Nhanes/limited_access/DPQY_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Mental Health - Depression Screener - Youth,P_DPQY_R Doc,/Nchs/Nhanes/limited_access/P_DPQY_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2000,2004,Mental Health - Eating Disorders - Youth,YDQE Doc,/Nchs/Nhanes/limited_access/YDQE.htm,RDC Only,No Link,RDC Only
+Questionnaire,2000,2004,Mental Health - Elimination Disorders - Youth,YDQL Doc,/Nchs/Nhanes/limited_access/YDQL.htm,RDC Only,No Link,RDC Only
 Questionnaire,1999,2000,Mental Health - Generalized Anxiety Disorder,CIQGAD Doc,/Nchs/Nhanes/1999-2000/CIQGAD.htm,CIQGAD Data [XPT - 765.2 KB],/Nchs/Nhanes/1999-2000/CIQGAD.XPT,Updated March 2006
 Questionnaire,2003,2004,Mental Health - Generalized Anxiety Disorder,CIQGAD_C Doc,/Nchs/Nhanes/2003-2004/CIQGAD_C.htm,CIQGAD_C Data [XPT - 475.2 KB],/Nchs/Nhanes/2003-2004/CIQGAD_C.XPT,August 2006
 Questionnaire,2001,2002,Mental Health - Generalized Anxiety Disorder,CIQGAD_B Doc,/Nchs/Nhanes/2001-2002/CIQGAD_B.htm,CIQGAD_B Data [XPT - 525.2 KB],/Nchs/Nhanes/2001-2002/CIQGAD_B.XPT,March 2006
+Questionnaire,1999,2004,Mental Health - Generalized Anxiety Disorder - Youth,YDQG Doc,/Nchs/Nhanes/limited_access/YDQG.htm,RDC Only,No Link,RDC Only
+Questionnaire,2000,2004,Mental Health - Major Depression/Dysthymic Disorder - Youth,YDQD Doc,/Nchs/Nhanes/limited_access/YDQD.htm,RDC Only,No Link,RDC Only
 Questionnaire,1999,2000,Mental Health - Panic Disorder,CIQPANIC Doc,/Nchs/Nhanes/1999-2000/CIQPANIC.htm,CIQPANIC Data [XPT - 1.2 MB],/Nchs/Nhanes/1999-2000/CIQPANIC.XPT,Updated March 2006
 Questionnaire,2003,2004,Mental Health - Panic Disorder,CIQPAN_C Doc,/Nchs/Nhanes/2003-2004/CIQPAN_C.htm,CIQPAN_C Data [XPT - 949.5 KB],/Nchs/Nhanes/2003-2004/CIQPAN_C.XPT,August 2006
 Questionnaire,2001,2002,Mental Health - Panic Disorder,CIQPAN_B Doc,/Nchs/Nhanes/2001-2002/CIQPAN_B.htm,CIQPAN_B Data [XPT - 1 MB],/Nchs/Nhanes/2001-2002/CIQPAN_B.XPT,March 2006
+Questionnaire,1999,2004,Mental Health - Panic Disorder - Youth,YDQP Doc,/Nchs/Nhanes/limited_access/YDQP.htm,RDC Only,No Link,RDC Only
+Questionnaire,1999,2004,Mental Health Diagnostic Interview - Youth,YDQ Doc,/Nchs/Nhanes/limited_access/YDQ.htm,RDC Only,No Link,RDC Only
 Questionnaire,1999,2000,Miscellaneous Pain,MPQ Doc,/Nchs/Nhanes/1999-2000/MPQ.htm,MPQ Data [XPT - 2.2 MB],/Nchs/Nhanes/1999-2000/MPQ.XPT,June 2002
 Questionnaire,2003,2004,Miscellaneous Pain,MPQ_C Doc,/Nchs/Nhanes/2003-2004/MPQ_C.htm,MPQ_C Data [XPT - 2.3 MB],/Nchs/Nhanes/2003-2004/MPQ_C.XPT,August 2006
 Questionnaire,2001,2002,Miscellaneous Pain,MPQ_B Doc,/Nchs/Nhanes/2001-2002/MPQ_B.htm,MPQ_B Data [XPT - 2.4 MB],/Nchs/Nhanes/2001-2002/MPQ_B.XPT,May 2004
@@ -274,8 +325,13 @@ Questionnaire,2009,2010,Occupation,OCQ_F Doc,/Nchs/Nhanes/2009-2010/OCQ_F.htm,OC
 Questionnaire,2011,2012,Occupation,OCQ_G Doc,/Nchs/Nhanes/2011-2012/OCQ_G.htm,OCQ_G Data [XPT - 1 MB],/Nchs/Nhanes/2011-2012/OCQ_G.XPT,Updated September 2017
 Questionnaire,2013,2014,Occupation,OCQ_H Doc,/Nchs/Nhanes/2013-2014/OCQ_H.htm,OCQ_H Data [XPT - 659.1 KB],/Nchs/Nhanes/2013-2014/OCQ_H.XPT,Updated December 2019
 Questionnaire,2015,2016,Occupation,OCQ_I Doc,/Nchs/Nhanes/2015-2016/OCQ_I.htm,OCQ_I Data [XPT - 694.7 KB],/Nchs/Nhanes/2015-2016/OCQ_I.XPT,April 2018
+Questionnaire,2013,2014,Occupation,OCQ_H_R Doc,/Nchs/Nhanes/limited_access/OCQ_H_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2017,2018,Occupation,OCQ_J Doc,/Nchs/Nhanes/2017-2018/OCQ_J.htm,OCQ_J Data [XPT - 483.4 KB],/Nchs/Nhanes/2017-2018/OCQ_J.XPT,February 2020
 Questionnaire,2017,2020,Occupation,P_OCQ Doc,/Nchs/Nhanes/2017-2018/P_OCQ.htm,P_OCQ Data [XPT - 479.5 KB],/Nchs/Nhanes/2017-2018/P_OCQ.XPT,September 2021
+Questionnaire,2007,2008,Occupation - Industry & Occupation Codes,OCQ_E_R Doc,/Nchs/Nhanes/limited_access/OCQ_E_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2005,2006,Occupation - Industry & Occupation Codes,OCQ_D_R Doc,/Nchs/Nhanes/limited_access/OCQ_D_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Occupation - Industry & Occupation Codes,OCQ_F_R Doc,/Nchs/Nhanes/limited_access/OCQ_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Occupation - Industry & Occupation Codes,OCQ_G_R Doc,/Nchs/Nhanes/limited_access/OCQ_G_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Oral Health,OHQ_E Doc,/Nchs/Nhanes/2007-2008/OHQ_E.htm,OHQ_E Data [XPT - 439.9 KB],/Nchs/Nhanes/2007-2008/OHQ_E.XPT,September 2009
 Questionnaire,1999,2000,Oral Health,OHQ Doc,/Nchs/Nhanes/1999-2000/OHQ.htm,OHQ Data [XPT - 1012.2 KB],/Nchs/Nhanes/1999-2000/OHQ.XPT,January 2004
 Questionnaire,2005,2006,Oral Health,OHQ_D Doc,/Nchs/Nhanes/2005-2006/OHQ_D.htm,OHQ_D Data [XPT - 393.1 KB],/Nchs/Nhanes/2005-2006/OHQ_D.XPT,June 2008
@@ -367,6 +423,13 @@ Questionnaire,2013,2014,Reproductive Health,RHQ_H Doc,/Nchs/Nhanes/2013-2014/RHQ
 Questionnaire,2015,2016,Reproductive Health,RHQ_I Doc,/Nchs/Nhanes/2015-2016/RHQ_I.htm,RHQ_I Data [XPT - 1.2 MB],/Nchs/Nhanes/2015-2016/RHQ_I.XPT,February 2018
 Questionnaire,2017,2018,Reproductive Health,RHQ_J Doc,/Nchs/Nhanes/2017-2018/RHQ_J.htm,RHQ_J Data [XPT - 1.2 MB],/Nchs/Nhanes/2017-2018/RHQ_J.XPT,February 2020
 Questionnaire,2017,2020,Reproductive Health,P_RHQ Doc,/Nchs/Nhanes/2017-2018/P_RHQ.htm,P_RHQ Data [XPT - 1.3 MB],/Nchs/Nhanes/2017-2018/P_RHQ.XPT,August 2021
+Questionnaire,2007,2008,Reproductive Health - Pregnant Women,RHQ_E_R Doc,/Nchs/Nhanes/limited_access/RHQ_E_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Reproductive Health - Pregnant Women,RHQ_F_R Doc,/Nchs/Nhanes/limited_access/RHQ_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Reproductive Health - Pregnant Women,RHQ_G_R Doc,/Nchs/Nhanes/limited_access/RHQ_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Reproductive Health - Pregnant Women,RHQ_H_R Doc,/Nchs/Nhanes/limited_access/RHQ_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Reproductive Health - Pregnant Women,RHQ_I_R Doc,/Nchs/Nhanes/limited_access/RHQ_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Reproductive Health - Women 12 Years and Older,RHQ_J_R Doc,/Nchs/Nhanes/limited_access/RHQ_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Reproductive Health - Women 12 Years and Older,P_RHQ_R Doc,/Nchs/Nhanes/limited_access/P_RHQ_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Respiratory Health,RDQ_E Doc,/Nchs/Nhanes/2007-2008/RDQ_E.htm,RDQ_E Data [XPT - 1.1 MB],/Nchs/Nhanes/2007-2008/RDQ_E.XPT,January 2010
 Questionnaire,1999,2000,Respiratory Health,RDQ Doc,/Nchs/Nhanes/1999-2000/RDQ.htm,RDQ Data [XPT - 1.4 MB],/Nchs/Nhanes/1999-2000/RDQ.XPT,June 2002
 Questionnaire,2005,2006,Respiratory Health,RDQ_D Doc,/Nchs/Nhanes/2005-2006/RDQ_D.htm,RDQ_D Data [XPT - 1.1 MB],/Nchs/Nhanes/2005-2006/RDQ_D.XPT,December 2007
@@ -383,6 +446,19 @@ Questionnaire,2009,2010,Sexual Behavior,SXQ_F Doc,/Nchs/Nhanes/2009-2010/SXQ_F.h
 Questionnaire,2011,2012,Sexual Behavior,SXQ_G Doc,/Nchs/Nhanes/2011-2012/SXQ_G.htm,SXQ_G Data [XPT - 1.8 MB],/Nchs/Nhanes/2011-2012/SXQ_G.XPT,September 2013
 Questionnaire,2013,2014,Sexual Behavior,SXQ_H Doc,/Nchs/Nhanes/2013-2014/SXQ_H.htm,SXQ_H Data [XPT - 1.9 MB],/Nchs/Nhanes/2013-2014/SXQ_H.XPT,October 2015
 Questionnaire,2015,2016,Sexual Behavior,SXQ_I Doc,/Nchs/Nhanes/2015-2016/SXQ_I.htm,SXQ_I Data [XPT - 1.9 MB],/Nchs/Nhanes/2015-2016/SXQ_I.XPT,December 2017
+Questionnaire,2017,2018,Sexual Behavior - Adult ,SXQ_J_R Doc,/Nchs/Nhanes/limited_access/SXQ_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Sexual Behavior - Adult ,P_SXQ_R Doc,/Nchs/Nhanes/limited_access/P_SXQ_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2005,2006,Sexual Behavior - Youth,SXQYTH_D Doc,/Nchs/Nhanes/limited_access/SXQYTH_D.htm,RDC Only,No Link,RDC Only
+Questionnaire,2007,2008,Sexual Behavior - Youth,SXQYTH_E Doc,/Nchs/Nhanes/limited_access/SXQYTH_E.htm,RDC Only,No Link,RDC Only
+Questionnaire,2009,2010,Sexual Behavior - Youth,SXQY_F_R Doc,/Nchs/Nhanes/limited_access/SXQY_F_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2011,2012,Sexual Behavior - Youth,SXQY_G_R Doc,/Nchs/Nhanes/limited_access/SXQY_G_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,1999,2000,Sexual Behavior - Youth,SXQYTH Doc,/Nchs/Nhanes/limited_access/SXQYTH.htm,RDC Only,No Link,RDC Only
+Questionnaire,2013,2014,Sexual Behavior - Youth,SXQY_H_R Doc,/Nchs/Nhanes/limited_access/SXQY_H_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2015,2016,Sexual Behavior - Youth,SXQY_I_R Doc,/Nchs/Nhanes/limited_access/SXQY_I_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2001,2002,Sexual Behavior - Youth,SXQYTH_B Doc,/Nchs/Nhanes/limited_access/SXQYTH_B.htm,RDC Only,No Link,RDC Only
+Questionnaire,2003,2004,Sexual Behavior - Youth,SXQYTH_C Doc,/Nchs/Nhanes/limited_access/SXQYTH_C.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2018,Sexual Behavior - Youth     ,SXQY_J_R Doc,/Nchs/Nhanes/limited_access/SXQY_J_R.htm,RDC Only,No Link,RDC Only
+Questionnaire,2017,2020,Sexual Behavior - Youth,P_SXQY_R Doc,/Nchs/Nhanes/limited_access/P_SXQY_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2007,2008,Sleep Disorders,SLQ_E Doc,/Nchs/Nhanes/2007-2008/SLQ_E.htm,SLQ_E Data [XPT - 1.4 MB],/Nchs/Nhanes/2007-2008/SLQ_E.XPT,October 2009
 Questionnaire,2005,2006,Sleep Disorders,SLQ_D Doc,/Nchs/Nhanes/2005-2006/SLQ_D.htm,SLQ_D Data [XPT - 1.3 MB],/Nchs/Nhanes/2005-2006/SLQ_D.XPT,March 2008
 Questionnaire,2009,2010,Sleep Disorders,SLQ_F Doc,/Nchs/Nhanes/2009-2010/SLQ_F.htm,SLQ_F Data [XPT - 216.6 KB],/Nchs/Nhanes/2009-2010/SLQ_F.XPT,January 2012
@@ -433,6 +509,7 @@ Questionnaire,1999,2000,Social Support,SSQ Doc,/Nchs/Nhanes/1999-2000/SSQ.htm,SS
 Questionnaire,2005,2006,Social Support,SSQ_D Doc,/Nchs/Nhanes/2005-2006/SSQ_D.htm,SSQ_D Data [XPT - 505 KB],/Nchs/Nhanes/2005-2006/SSQ_D.XPT,December 2007
 Questionnaire,2003,2004,Social Support,SSQ_C Doc,/Nchs/Nhanes/2003-2004/SSQ_C.htm,SSQ_C Data [XPT - 518.9 KB],/Nchs/Nhanes/2003-2004/SSQ_C.XPT,January 2007
 Questionnaire,2001,2002,Social Support,SSQ_B Doc,/Nchs/Nhanes/2001-2002/SSQ_B.htm,SSQ_B Data [XPT - 295.9 KB],/Nchs/Nhanes/2001-2002/SSQ_B.XPT,May 2004
+Questionnaire,2019,2020,Standing Balance,BAQ_K_R Doc,/Nchs/Nhanes/limited_access/BAQ_K_R.htm,RDC Only,No Link,RDC Only
 Questionnaire,2011,2012,Taste & Smell,CSQ_G Doc,/Nchs/Nhanes/2011-2012/CSQ_G.htm,CSQ_G Data [XPT - 990.8 KB],/Nchs/Nhanes/2011-2012/CSQ_G.XPT,September 2013
 Questionnaire,2013,2014,Taste & Smell,CSQ_H Doc,/Nchs/Nhanes/2013-2014/CSQ_H.htm,CSQ_H Data [XPT - 1.1 MB],/Nchs/Nhanes/2013-2014/CSQ_H.XPT,Updated March 2016
 Questionnaire,1999,2000,Tuberculosis,TBQ Doc,/Nchs/Nhanes/1999-2000/TBQ.htm,TBQ Data [XPT - 520.9 KB],/Nchs/Nhanes/1999-2000/TBQ.XPT,June 2002
@@ -467,6 +544,9 @@ Questionnaire,2013,2014,Weight History - Youth,WHQMEC_H Doc,/Nchs/Nhanes/2013-20
 Questionnaire,2015,2016,Weight History - Youth,WHQMEC_I Doc,/Nchs/Nhanes/2015-2016/WHQMEC_I.htm,WHQMEC_I Data [XPT - 49 KB],/Nchs/Nhanes/2015-2016/WHQMEC_I.XPT,April 2018
 Questionnaire,2017,2018,Weight History - Youth,WHQMEC_J Doc,/Nchs/Nhanes/2017-2018/WHQMEC_J.htm,WHQMEC_J Data [XPT - 42 KB],/Nchs/Nhanes/2017-2018/WHQMEC_J.XPT,June 2020
 Questionnaire,2017,2020,Weight History - Youth,P_WHQMEC Doc,/Nchs/Nhanes/2017-2018/P_WHQMEC.htm,P_WHQMEC Data [XPT - 70.4 KB],/Nchs/Nhanes/2017-2018/P_WHQMEC.XPT,November 2021
+Demographics,2007,2014,California - Demographic Variables & Sample Weights,CDEMO_EH Doc,/Nchs/Nhanes/limited_access/CDEMO_EH.htm,RDC Only,No Link,RDC Only
+Demographics,1999,2006,California - Demographic Variables & Sample Weights,CDEMO_AD Doc,/Nchs/Nhanes/limited_access/CDEMO_AD.htm,RDC Only,No Link,RDC Only
+Demographics,2019,2020,Demographic Variables,DEMO_K_R Doc,/Nchs/Nhanes/limited_access/DEMO_K_R.htm,RDC Only,No Link,RDC Only
 Demographics,2005,2006,Demographic Variables & Sample Weights,DEMO_D Doc,/Nchs/Nhanes/2005-2006/DEMO_D.htm,DEMO_D Data [XPT - 3.4 MB],/Nchs/Nhanes/2005-2006/DEMO_D.XPT,Updated September 2009
 Demographics,2007,2008,Demographic Variables & Sample Weights,DEMO_E Doc,/Nchs/Nhanes/2007-2008/DEMO_E.htm,DEMO_E Data [XPT - 3.3 MB],/Nchs/Nhanes/2007-2008/DEMO_E.XPT,September 2009
 Demographics,2003,2004,Demographic Variables & Sample Weights,DEMO_C Doc,/Nchs/Nhanes/2003-2004/DEMO_C.htm,DEMO_C Data [XPT - 3.4 MB],/Nchs/Nhanes/2003-2004/DEMO_C.XPT,Updated September 2009
@@ -478,6 +558,11 @@ Demographics,2013,2014,Demographic Variables and Sample Weights,DEMO_H Doc,/Nchs
 Demographics,2015,2016,Demographic Variables and Sample Weights,DEMO_I Doc,/Nchs/Nhanes/2015-2016/DEMO_I.htm,DEMO_I Data [XPT - 3.6 MB],/Nchs/Nhanes/2015-2016/DEMO_I.XPT,September 2017
 Demographics,2017,2018,Demographic Variables and Sample Weights,DEMO_J Doc,/Nchs/Nhanes/2017-2018/DEMO_J.htm,DEMO_J Data [XPT - 3.3 MB],/Nchs/Nhanes/2017-2018/DEMO_J.XPT,February 2020
 Demographics,2017,2020,Demographic Variables and Sample Weights,P_DEMO Doc,/Nchs/Nhanes/2017-2018/P_DEMO.htm,P_DEMO Data [XPT - 3.4 MB],/Nchs/Nhanes/2017-2018/P_DEMO.XPT,May 2021
+Demographics,1999,2016,"Geocoded Data, NHANES 1999-2016, Census 2000",GEO_2000 Doc,/Nchs/Nhanes/limited_access/GEO_2000.htm,RDC Only,No Link,RDC Only
+Demographics,1999,2018,"Geocoded Data, NHANES 1999-2018, Census 2010",GEO_2010 Doc,/Nchs/Nhanes/limited_access/GEO_2010.htm,RDC Only,No Link,RDC Only
+Demographics,1999,2004,"Los Angeles County, California - Demographic Variables & Sample Weights",LA_DEMO Doc,/Nchs/Nhanes/limited_access/LA_DEMO.htm,RDC Only,No Link,RDC Only
+Demographics,1999,2006,"Los Angeles County, California - Demographic Variables & Sample Weights",LDEMO_AD Doc,/Nchs/Nhanes/limited_access/LDEMO_AD.htm,RDC Only,No Link,RDC Only
+Demographics,2007,2014,"Los Angeles County, California - Demographic Variables & Sample Weights",LDEMO_EH Doc,/Nchs/Nhanes/limited_access/LDEMO_EH.htm,RDC Only,No Link,RDC Only
 Dietary,1999,2000,Dietary Interview - Individual Foods,DRXIFF Doc,/Nchs/Nhanes/1999-2000/DRXIFF.htm,DRXIFF Data [XPT - 68.3 MB],/Nchs/Nhanes/1999-2000/DRXIFF.XPT,Updated July 2010
 Dietary,2001,2002,Dietary Interview - Individual Foods,DRXIFF_B Doc,/Nchs/Nhanes/2001-2002/DRXIFF_B.htm,DRXIFF_B Data [XPT - 81.8 MB],/Nchs/Nhanes/2001-2002/DRXIFF_B.XPT,Updated July 2010
 Dietary,2003,2004,"Dietary Interview - Individual Foods, First Day",DR1IFF_C Doc,/Nchs/Nhanes/2003-2004/DR1IFF_C.htm,DR1IFF_C Data [XPT - 82.1 MB],/Nchs/Nhanes/2003-2004/DR1IFF_C.XPT,Updated November 2007
@@ -688,12 +773,14 @@ Examination,2013,2014,Dual-Energy X-ray Absorptiometry - T7 Vertebrae Morphology
 Examination,2013,2014,Dual-Energy X-ray Absorptiometry - T8 Vertebrae Morphology ,DXXT8_H Doc,/Nchs/Nhanes/2013-2014/DXXT8_H.htm,DXXT8_H Data [XPT - 6.2 MB],/Nchs/Nhanes/2013-2014/DXXT8_H.XPT,December 2018
 Examination,2013,2014,Dual-Energy X-ray Absorptiometry - T9 Vertebrae Morphology ,DXXT9_H Doc,/Nchs/Nhanes/2013-2014/DXXT9_H.htm,DXXT9_H Data [XPT - 6.2 MB],/Nchs/Nhanes/2013-2014/DXXT9_H.XPT,December 2018
 Examination,2013,2014,Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment,DXXVFA_H Doc,/Nchs/Nhanes/2013-2014/DXXVFA_H.htm,DXXVFA_H Data [XPT - 844.8 KB],/Nchs/Nhanes/2013-2014/DXXVFA_H.XPT,October 2015
+Examination,2013,2014,Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study ,DXXV_H_R Doc,/Nchs/Nhanes/limited_access/DXXV_H_R.htm,RDC Only,No Link,RDC Only
 Examination,1999,2006,Dual-Energy X-ray Absorptiometry - Whole Body,All Years Doc,/Nchs/Nhanes/Dxa/Dxa.aspx,All Years Data,/Nchs/Nhanes/Dxa/Dxa.aspx,Updated December 2016
 Examination,2011,2012,Dual-Energy X-ray Absorptiometry - Whole Body ,DXX_G Doc,/Nchs/Nhanes/2011-2012/DXX_G.htm,DXX_G Data [XPT - 4.1 MB],/Nchs/Nhanes/2011-2012/DXX_G.XPT,March 2020
 Examination,2015,2016,Dual-Energy X-ray Absorptiometry - Whole Body ,DXX_I Doc,/Nchs/Nhanes/2015-2016/DXX_I.htm,DXX_I Data [XPT - 4.1 MB],/Nchs/Nhanes/2015-2016/DXX_I.XPT,March 2020
 Examination,2013,2014,Dual-Energy X-ray Absorptiometry - Whole Body ,DXX_H Doc,/Nchs/Nhanes/2013-2014/DXX_H.htm,DXX_H Data [XPT - 4.3 MB],/Nchs/Nhanes/2013-2014/DXX_H.XPT,March 2020
 Examination,2017,2018,Dual-Energy X-ray Absorptiometry - Whole Body ,DXX_J Doc,/Nchs/Nhanes/2017-2018/DXX_J.htm,DXX_J Data [XPT - 3.6 MB],/Nchs/Nhanes/2017-2018/DXX_J.XPT,March 2020
 Examination,2001,2002,"Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam",DXX_2_B Doc,/Nchs/Nhanes/2001-2002/DXX_2_B.htm,DXX_2_B Data [XPT - 389.5 KB],/Nchs/Nhanes/2001-2002/DXX_2_B.XPT,June 2010
+Examination,2000,2000,"Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam",DXX_2_00 Doc,/Nchs/Nhanes/limited_access/DXX_2_00.htm,RDC Only,No Link,RDC Only
 Examination,2007,2008,Exhaled Nitric Oxide,ENX_E Doc,/Nchs/Nhanes/2007-2008/ENX_E.htm,ENX_E Data [XPT - 1.3 MB],/Nchs/Nhanes/2007-2008/ENX_E.XPT,September 2011
 Examination,2009,2010,Exhaled Nitric Oxide,ENX_F Doc,/Nchs/Nhanes/2009-2010/ENX_F.htm,ENX_F Data [XPT - 1.4 MB],/Nchs/Nhanes/2009-2010/ENX_F.XPT,September 2011
 Examination,2011,2012,Exhaled Nitric Oxide,ENX_G Doc,/Nchs/Nhanes/2011-2012/ENX_G.htm,ENX_G Data [XPT - 1.3 MB],/Nchs/Nhanes/2011-2012/ENX_G.XPT,February 2014
@@ -701,6 +788,7 @@ Examination,2011,2012,Fluorosis - Clinical,FLXCLN_G Doc,/Nchs/Nhanes/2011-2012/F
 Examination,2013,2014,Fluorosis - Clinical ,FLXCLN_H Doc,/Nchs/Nhanes/2013-2014/FLXCLN_H.htm,FLXCLN_H Data [XPT - 617.1 KB],/Nchs/Nhanes/2013-2014/FLXCLN_H.XPT,April 2019
 Examination,2015,2016,Fluorosis - Clinical ,FLXCLN_I Doc,/Nchs/Nhanes/2015-2016/FLXCLN_I.htm,FLXCLN_I Data [XPT - 792.7 KB],/Nchs/Nhanes/2015-2016/FLXCLN_I.XPT,April 2019
 Examination,2009,2010,Fluorosis - Clinical ,FLXCLN_F Doc,/Nchs/Nhanes/2009-2010/FLXCLN_F.htm,FLXCLN_F Data [XPT - 140.2 KB],/Nchs/Nhanes/2009-2010/FLXCLN_F.XPT,March 2020
+Examination,2014,2014,Fluorosis - Clinical 20-29 Years ,FLXC_H_R Doc,/Nchs/Nhanes/limited_access/FLXC_H_R.htm,RDC Only,No Link,RDC Only
 Examination,2017,2018,Liver Ultrasound Transient Elastography ,LUX_J Doc,/Nchs/Nhanes/2017-2018/LUX_J.htm,LUX_J Data [XPT - 677.8 KB],/Nchs/Nhanes/2017-2018/LUX_J.XPT,March 2020
 Examination,2017,2020,Liver Ultrasound Transient Elastography ,P_LUX Doc,/Nchs/Nhanes/2017-2018/P_LUX.htm,P_LUX Data [XPT - 1.1 MB],/Nchs/Nhanes/2017-2018/P_LUX.XPT,January 2022
 Examination,1999,2000,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,LEXABPI Doc,/Nchs/Nhanes/1999-2000/LEXABPI.htm,LEXABPI Data [XPT - 362.3 KB],/Nchs/Nhanes/1999-2000/LEXABPI.XPT,June 2002
@@ -748,16 +836,21 @@ Examination,2017,2018,Oral Health - Recommendation of Care ,OHXREF_J Doc,/Nchs/N
 Examination,2017,2020,Oral Health - Recommendation of Care  ,P_OHXREF Doc,/Nchs/Nhanes/2017-2018/P_OHXREF.htm,P_OHXREF Data [XPT - 1.3 MB],/Nchs/Nhanes/2017-2018/P_OHXREF.XPT,May 2021
 Examination,2005,2006,Physical Activity Monitor,PAXRAW_D Doc,/Nchs/Nhanes/2005-2006/PAXRAW_D.htm,PAXRAW_D Data [ZIP - 449.2 MB],/Nchs/Nhanes/2005-2006/PAXRAW_D.ZIP,June 2008
 Examination,2003,2004,Physical Activity Monitor,PAXRAW_C Doc,/Nchs/Nhanes/2003-2004/PAXRAW_C.htm,PAXRAW_C Data [ZIP - 407.7 MB],/Nchs/Nhanes/2003-2004/PAXRAW_C.ZIP,Updated December 2007
+Examination,2012,2012,Physical Activity Monitor - Day,PAXD_G_R Doc,/Nchs/Nhanes/limited_access/PAXD_G_R.htm,RDC Only,No Link,RDC Only
 Examination,2011,2012,Physical Activity Monitor - Day,PAXDAY_G Doc,/Nchs/Nhanes/2011-2012/PAXDAY_G.htm,PAXDAY_G Data [XPT - 6.2 MB],/Nchs/Nhanes/2011-2012/PAXDAY_G.XPT,November 2020
 Examination,2013,2014,Physical Activity Monitor - Day,PAXDAY_H Doc,/Nchs/Nhanes/2013-2014/PAXDAY_H.htm,PAXDAY_H Data [XPT - 7 MB],/Nchs/Nhanes/2013-2014/PAXDAY_H.XPT,November 2020
+Examination,2012,2012,Physical Activity Monitor - Header,PAXA_G_R Doc,/Nchs/Nhanes/limited_access/PAXA_G_R.htm,RDC Only,No Link,RDC Only
 Examination,2011,2012,Physical Activity Monitor - Header,PAXHD_G Doc,/Nchs/Nhanes/2011-2012/PAXHD_G.htm,PAXHD_G Data [XPT - 376.2 KB],/Nchs/Nhanes/2011-2012/PAXHD_G.XPT,November 2020
 Examination,2013,2014,Physical Activity Monitor - Header,PAXHD_H Doc,/Nchs/Nhanes/2013-2014/PAXHD_H.htm,PAXHD_H Data [XPT - 428.5 KB],/Nchs/Nhanes/2013-2014/PAXHD_H.XPT,November 2020
+Examination,2012,2012,Physical Activity Monitor - Hour,PAXH_G_R Doc,/Nchs/Nhanes/limited_access/PAXH_G_R.htm,RDC Only,No Link,RDC Only
 Examination,2011,2012,Physical Activity Monitor - Hour,PAXHR_G Doc,/Nchs/Nhanes/2011-2012/PAXHR_G.htm,PAXHR_G Data [XPT - 122.2 MB],/Nchs/Nhanes/2011-2012/PAXHR_G.XPT,November 2020
 Examination,2013,2014,Physical Activity Monitor - Hour,PAXHR_H Doc,/Nchs/Nhanes/2013-2014/PAXHR_H.htm,PAXHR_H Data [XPT - 138 MB],/Nchs/Nhanes/2013-2014/PAXHR_H.XPT,November 2020
+Examination,2012,2012,Physical Activity Monitor - Minute,PAXM_G_R Doc,/Nchs/Nhanes/limited_access/PAXM_G_R.htm,RDC Only,No Link,RDC Only
 Examination,2011,2012,Physical Activity Monitor - Minute,PAXMIN_G Doc,/Nchs/Nhanes/2011-2012/PAXMIN_G.htm,PAXMIN_G Data [XPT - 7.6 GB],/Nchs/Nhanes/2011-2012/PAXMIN_G.XPT,November 2020
 Examination,2013,2014,Physical Activity Monitor - Minute,PAXMIN_H Doc,/Nchs/Nhanes/2013-2014/PAXMIN_H.htm,PAXMIN_H Data [XPT - 8.7 GB],/Nchs/Nhanes/2013-2014/PAXMIN_H.XPT,November 2020
 Examination,2011,2012,Physical Activity Monitor - Raw Data 80hz ,PAX80_G Doc,/Nchs/Nhanes/2011-2012/PAX80_G.htm,PAX80_G Data [FTP],https://ftp.cdc.gov/pub/pax_g,January 2022
 Examination,2013,2014,Physical Activity Monitor - Raw Data 80hz ,PAX80_H Doc,/Nchs/Nhanes/2013-2014/PAX80_H.htm,PAX80_H Data [FTP],https://ftp.cdc.gov/pub/pax_h,January 2022
+Examination,2011,2012,Physical Activity Monitor - Raw Data 80hz ,PAX80_G_R Doc,/Nchs/Nhanes/limited_access/PAX80_G_R.htm,RDC Only,No Link,RDC Only
 Examination,1999,2000,Shared Exclusion Questions,SEQ Doc,/Nchs/Nhanes/1999-2000/SEQ.htm,SEQ Data [XPT - 692.1 KB],/Nchs/Nhanes/1999-2000/SEQ.XPT,June 2002
 Examination,2007,2008,Spirometry - Pre and Post-Bronchodilator,SPX_E Doc,/Nchs/Nhanes/2007-2008/SPX_E.htm,SPX_E Data [XPT - 2.7 MB],/Nchs/Nhanes/2007-2008/SPX_E.XPT,December 2011
 Examination,2009,2010,Spirometry - Pre and Post-Bronchodilator,SPX_F Doc,/Nchs/Nhanes/2009-2010/SPX_F.htm,SPX_F Data [XPT - 2.9 MB],/Nchs/Nhanes/2009-2010/SPX_F.XPT,December 2011
@@ -765,6 +858,7 @@ Examination,2011,2012,Spirometry - Pre and Post-Bronchodilator,SPX_G Doc,/Nchs/N
 Examination,2007,2008,Spirometry - Raw Curve Data,SPXRAW_E Doc,/Nchs/Nhanes/2007-2008/SPXRAW_E.htm,SPXRAW_E Data [ZIP - 12.1 MB],/Nchs/Nhanes/2007-2008/SPXRAW_E.ZIP,December 2011
 Examination,2009,2010,Spirometry - Raw Curve Data,SPXRAW_F Doc,/Nchs/Nhanes/2009-2010/SPXRAW_F.htm,SPXRAW_F Data [ZIP - 12.4 MB],/Nchs/Nhanes/2009-2010/SPXRAW_F.ZIP,December 2011
 Examination,2011,2012,Spirometry - Raw Curve Data,SPXRAW_G Doc,/Nchs/Nhanes/2011-2012/SPXRAW_G.htm,SPXRAW_G Data [ZIP - 12.3 MB],/Nchs/Nhanes/2011-2012/SPXRAW_G.ZIP,December 2014
+Examination,2012,2012,Taste & Smell,CSX_G_R Doc,/Nchs/Nhanes/limited_access/CSX_G_R.htm,RDC Only,No Link,RDC Only
 Examination,2013,2014,Taste & Smell,CSX_H Doc,/Nchs/Nhanes/2013-2014/CSX_H.htm,CSX_H Data [XPT - 1.1 MB],/Nchs/Nhanes/2013-2014/CSX_H.XPT,February 2016
 Examination,1999,2000,Tuberculosis,TB Doc,/Nchs/Nhanes/1999-2000/TB.htm,TB Data [XPT - 623 KB],/Nchs/Nhanes/1999-2000/TB.XPT,Updated January 2008
 Examination,2011,2012,Tuberculosis,TBX_G Doc,/Nchs/Nhanes/2011-2012/TBX_G.htm,TBX_G Data [XPT - 307 KB],/Nchs/Nhanes/2011-2012/TBX_G.XPT,Updated January 2015
@@ -773,6 +867,8 @@ Examination,1999,2000,Vision,VIX Doc,/Nchs/Nhanes/1999-2000/VIX.htm,VIX Data [XP
 Examination,2005,2006,Vision,VIX_D Doc,/Nchs/Nhanes/2005-2006/VIX_D.htm,VIX_D Data [XPT - 3 MB],/Nchs/Nhanes/2005-2006/VIX_D.XPT,April 2008
 Examination,2003,2004,Vision,VIX_C Doc,/Nchs/Nhanes/2003-2004/VIX_C.htm,VIX_C Data [XPT - 3 MB],/Nchs/Nhanes/2003-2004/VIX_C.XPT,December 2005
 Examination,2001,2002,Vision,VIX_B Doc,/Nchs/Nhanes/2001-2002/VIX_B.htm,VIX_B Data [XPT - 3.2 MB],/Nchs/Nhanes/2001-2002/VIX_B.XPT,February 2005
+Laboratory,2014,2014,24-Hour Urine Collection Data Processing - First Collection,UR1_H_R Doc,/Nchs/Nhanes/limited_access/UR1_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,24-Hour Urine Collection Data Processing - SecondCollection,UR2_H_R Doc,/Nchs/Nhanes/limited_access/UR2_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Acrylamide & Glycidamide,L06AGE_C Doc,/Nchs/Nhanes/2003-2004/L06AGE_C.htm,L06AGE_C Data [XPT - 335.6 KB],/Nchs/Nhanes/2003-2004/L06AGE_C.XPT,Updated October 2016
 Laboratory,2005,2006,Acrylamide & Glycidamide,AMDGYD_D Doc,/Nchs/Nhanes/2005-2006/AMDGYD_D.htm,AMDGYD_D Data [XPT - 343.4 KB],/Nchs/Nhanes/2005-2006/AMDGYD_D.XPT,Updated October 2016
 Laboratory,2013,2014,Acrylamide & Glycidamide ,AMDGYD_H Doc,/Nchs/Nhanes/2013-2014/AMDGYD_H.htm,AMDGYD_H Data [XPT - 130.7 KB],/Nchs/Nhanes/2013-2014/AMDGYD_H.XPT,December 2019
@@ -786,6 +882,7 @@ Laboratory,2003,2004,Albumin & Creatinine - Urine,L16_C Doc,/Nchs/Nhanes/2003-20
 Laboratory,2001,2002,Albumin & Creatinine - Urine,L16_B Doc,/Nchs/Nhanes/2001-2002/L16_B.htm,L16_B Data [XPT - 339.2 KB],/Nchs/Nhanes/2001-2002/L16_B.XPT,Updated May 2004
 Laboratory,2009,2010,Albumin & Creatinine - Urine,ALB_CR_F Doc,/Nchs/Nhanes/2009-2010/ALB_CR_F.htm,ALB_CR_F Data [XPT - 740.6 KB],/Nchs/Nhanes/2009-2010/ALB_CR_F.XPT,February 2012
 Laboratory,2011,2012,Albumin & Creatinine - Urine,ALB_CR_G Doc,/Nchs/Nhanes/2011-2012/ALB_CR_G.htm,ALB_CR_G Data [XPT - 368.2 KB],/Nchs/Nhanes/2011-2012/ALB_CR_G.XPT,Updated September 2016
+Laboratory,2011,2011,Albumin & Creatinine - Urine,ALCR_G_R Doc,/Nchs/Nhanes/limited_access/ALCR_G_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Albumin & Creatinine - Urine,ALB_CR_H Doc,/Nchs/Nhanes/2013-2014/ALB_CR_H.htm,ALB_CR_H Data [XPT - 390.2 KB],/Nchs/Nhanes/2013-2014/ALB_CR_H.XPT,Updated September 2016
 Laboratory,2015,2016,Albumin & Creatinine - Urine ,ALB_CR_I Doc,/Nchs/Nhanes/2015-2016/ALB_CR_I.htm,ALB_CR_I Data [XPT - 539.8 KB],/Nchs/Nhanes/2015-2016/ALB_CR_I.XPT,Updated June 2019
 Laboratory,2017,2018,Albumin & Creatinine - Urine ,ALB_CR_J Doc,/Nchs/Nhanes/2017-2018/ALB_CR_J.htm,ALB_CR_J Data [XPT - 497.8 KB],/Nchs/Nhanes/2017-2018/ALB_CR_J.XPT,February 2020
@@ -824,8 +921,11 @@ Laboratory,2009,2010,Arsenics - Total & Speciated - Urine,UAS_F Doc,/Nchs/Nhanes
 Laboratory,2011,2012,Arsenics - Total & Speciated - Urine,UAS_G Doc,/Nchs/Nhanes/2011-2012/UAS_G.htm,UAS_G Data [XPT - 388.4 KB],/Nchs/Nhanes/2011-2012/UAS_G.XPT,Updated October 2014
 Laboratory,2011,2012,Arsenics - Total & Speciated - Urine - Special Sample,UASS_G Doc,/Nchs/Nhanes/2011-2012/UASS_G.htm,UASS_G Data [XPT - 352.1 KB],/Nchs/Nhanes/2011-2012/UASS_G.XPT,September 2013
 Laboratory,2007,2008,Atrazine and Metabolites,UAM_E Doc,/Nchs/Nhanes/2007-2008/UAM_E.htm,UAM_E Data [XPT - 318.5 KB],/Nchs/Nhanes/2007-2008/UAM_E.XPT,September 2015
+Laboratory,2010,2010,Avian Influenza A (H7N9) & Seasonal Influenza Viruses Antibodies (Surplus),SSH7N9_R Doc,/Nchs/Nhanes/limited_access/SSH7N9_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2001,2002,Bacterial vaginosis (BV) & Trichomonas vaginalis,L34_B Doc,/Nchs/Nhanes/2001-2002/L34_B.htm,L34_B Data [XPT - 51.1 KB],/Nchs/Nhanes/2001-2002/L34_B.XPT,Updated October 2010
 Laboratory,2003,2004,Bacterial vaginosis (BV) & Trichomonas vaginalis,L34_C Doc,/Nchs/Nhanes/2003-2004/L34_C.htm,L34_C Data [XPT - 45.5 KB],/Nchs/Nhanes/2003-2004/L34_C.XPT,Updated October 2010
+Laboratory,2001,2002,Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth,L34_B_R Doc,/Nchs/Nhanes/limited_access/L34_B_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2003,2004,Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth,L34_C_R Doc,/Nchs/Nhanes/limited_access/L34_C_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Brominated Flame Retardants (BFRs),L28PBE_C Doc,/Nchs/Nhanes/2003-2004/L28PBE_C.htm,L28PBE_C Data [XPT - 644.6 KB],/Nchs/Nhanes/2003-2004/L28PBE_C.XPT,Updated August 2007
 Laboratory,2005,2006,Brominated Flame Retardants (BFRs) - Pooled Samples,BFRPOL_D Doc,/Nchs/Nhanes/2005-2006/BFRPOL_D.htm,BFRPOL_D Data [XPT - 87.6 KB],/Nchs/Nhanes/2005-2006/BFRPOL_D.XPT,Updated November 2020
 Laboratory,2007,2008,Brominated Flame Retardants (BFRs) - Pooled Samples,BFRPOL_E Doc,/Nchs/Nhanes/2007-2008/BFRPOL_E.htm,BFRPOL_E Data [XPT - 93.1 KB],/Nchs/Nhanes/2007-2008/BFRPOL_E.XPT,Updated November 2020
@@ -838,10 +938,13 @@ Laboratory,2005,2006,"Cadmium, Lead, & Total Mercury - Blood",PBCD_D Doc,/Nchs/N
 Laboratory,2007,2008,"Cadmium, Lead, & Total Mercury - Blood",PBCD_E Doc,/Nchs/Nhanes/2007-2008/PBCD_E.htm,PBCD_E Data [XPT - 583.5 KB],/Nchs/Nhanes/2007-2008/PBCD_E.XPT,Updated June 2013
 Laboratory,2003,2004,"Cadmium, Lead, & Total Mercury - Blood",L06BMT_C Doc,/Nchs/Nhanes/2003-2004/L06BMT_C.htm,L06BMT_C Data [XPT - 647.4 KB],/Nchs/Nhanes/2003-2004/L06BMT_C.XPT,May 2006
 Laboratory,2009,2010,"Cadmium, Lead, & Total Mercury - Blood",PBCD_F Doc,/Nchs/Nhanes/2009-2010/PBCD_F.htm,PBCD_F Data [XPT - 770.5 KB],/Nchs/Nhanes/2009-2010/PBCD_F.XPT,Updated June 2013
+Laboratory,2000,2000,"Cadmium, Lead, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine & Other Selected Nutritional Biochemistries - Blood, Second Exam",L06_2_00 Doc,/Nchs/Nhanes/limited_access/L06_2_00.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries",LAB06 Doc,/Nchs/Nhanes/1999-2000/LAB06.htm,LAB06 Data [XPT - 2.8 MB],/Nchs/Nhanes/1999-2000/LAB06.XPT,Updated September 2007
 Laboratory,2001,2002,"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries",L06_B Doc,/Nchs/Nhanes/2001-2002/L06_B.htm,L06_B Data [XPT - 1.7 MB],/Nchs/Nhanes/2001-2002/L06_B.XPT,Updated May 2007
 Laboratory,2001,2002,"Cadmium, Lead, Total Mercury, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine - Blood, Second Exam",L06_2_B Doc,/Nchs/Nhanes/2001-2002/L06_2_B.htm,L06_2_B Data [XPT - 89.5 KB],/Nchs/Nhanes/2001-2002/L06_2_B.XPT,October 2008
 Laboratory,2011,2012,"Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood",PBCD_G Doc,/Nchs/Nhanes/2011-2012/PBCD_G.htm,PBCD_G Data [XPT - 1.1 MB],/Nchs/Nhanes/2011-2012/PBCD_G.XPT,September 2013
+Laboratory,2014,2014,Caffeine - 24-Hour Urine - First Collection,U1CF_H_R Doc,/Nchs/Nhanes/limited_access/U1CF_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Caffeine - 24-Hour Urine - Second Collection,U2CF_H_R Doc,/Nchs/Nhanes/limited_access/U2CF_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2009,2010,Caffeine & Caffeine Metabolites - Urine,CAFE_F Doc,/Nchs/Nhanes/2009-2010/CAFE_F.htm,CAFE_F Data [XPT - 735.2 KB],/Nchs/Nhanes/2009-2010/CAFE_F.XPT,March 2014
 Laboratory,2011,2012,Caffeine & Caffeine Metabolites - Urine ,CAFE_G Doc,/Nchs/Nhanes/2011-2012/CAFE_G.htm,CAFE_G Data [XPT - 631.3 KB],/Nchs/Nhanes/2011-2012/CAFE_G.XPT,January 2020
 Laboratory,2013,2014,Caffeine & Caffeine Metabolites - Urine,CAFE_H Doc,/Nchs/Nhanes/2013-2014/CAFE_H.htm,CAFE_H Data [XPT - 694.8 KB],/Nchs/Nhanes/2013-2014/CAFE_H.XPT,June 2020
@@ -849,13 +952,28 @@ Laboratory,2009,2010,Chlamydia - Urine,CHLMDA_F Doc,/Nchs/Nhanes/2009-2010/CHLMD
 Laboratory,2011,2012,Chlamydia - Urine,CHLMDA_G Doc,/Nchs/Nhanes/2011-2012/CHLMDA_G.htm,CHLMDA_G Data [XPT - 35 KB],/Nchs/Nhanes/2011-2012/CHLMDA_G.XPT,November 2013
 Laboratory,2013,2014,Chlamydia - Urine,CHLMDA_H Doc,/Nchs/Nhanes/2013-2014/CHLMDA_H.htm,CHLMDA_H Data [XPT - 35.7 KB],/Nchs/Nhanes/2013-2014/CHLMDA_H.XPT,October 2015
 Laboratory,2015,2016,Chlamydia - Urine,CHLMDA_I Doc,/Nchs/Nhanes/2015-2016/CHLMDA_I.htm,CHLMDA_I Data [XPT - 34.2 KB],/Nchs/Nhanes/2015-2016/CHLMDA_I.XPT,December 2017
+Laboratory,2017,2018,Chlamydia - Urine - Adult,CHLA_J_R Doc,/Nchs/Nhanes/limited_access/CHLA_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Chlamydia - Urine - Adult,P_CHLA_R Doc,/Nchs/Nhanes/limited_access/P_CHLA_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2011,2012,Chlamydia - Urine - Youth,CHLM_G_R Doc,/Nchs/Nhanes/limited_access/CHLM_G_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2013,2014,Chlamydia - Urine - Youth,CHLM_H_R Doc,/Nchs/Nhanes/limited_access/CHLM_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Chlamydia - Urine - Youth,CHLM_I_R Doc,/Nchs/Nhanes/limited_access/CHLM_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Chlamydia - Urine - Youth ,CHLM_J_R Doc,/Nchs/Nhanes/limited_access/CHLM_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Chlamydia - Urine - Youth,P_CHLM_R Doc,/Nchs/Nhanes/limited_access/P_CHLM_R.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,Chlamydia & Gonorrhea - Urine,LAB05 Doc,/Nchs/Nhanes/1999-2000/LAB05.htm,LAB05 Data [XPT - 50.5 KB],/Nchs/Nhanes/1999-2000/LAB05.XPT,June 2002
 Laboratory,2005,2006,Chlamydia & Gonorrhea - Urine,CHLMDA_D Doc,/Nchs/Nhanes/2005-2006/CHLMDA_D.htm,CHLMDA_D Data [XPT - 57.4 KB],/Nchs/Nhanes/2005-2006/CHLMDA_D.XPT,May 2008
 Laboratory,2003,2004,Chlamydia & Gonorrhea - Urine,L05_C Doc,/Nchs/Nhanes/2003-2004/L05_C.htm,L05_C Data [XPT - 53.2 KB],/Nchs/Nhanes/2003-2004/L05_C.XPT,Updated June 2007
 Laboratory,2001,2002,Chlamydia & Gonorrhea - Urine,L05_B Doc,/Nchs/Nhanes/2001-2002/L05_B.htm,L05_B Data [XPT - 57.7 KB],/Nchs/Nhanes/2001-2002/L05_B.XPT,May 2004
 Laboratory,2007,2008,Chlamydia & Gonorrhea - Urine,CHLMDA_E Doc,/Nchs/Nhanes/2007-2008/CHLMDA_E.htm,CHLMDA_E Data [XPT - 51.2 KB],/Nchs/Nhanes/2007-2008/CHLMDA_E.XPT,September 2009
+Laboratory,2007,2008,Chlamydia & Gonorrhea - Urine - Youth,CHLM_E_R Doc,/Nchs/Nhanes/limited_access/CHLM_E_R.htm,RDC Only,No Link,RDC Only
+Laboratory,1999,2000,Chlamydia & Gonorrhea - Urine - Youth,L05RDC_A Doc,/Nchs/Nhanes/limited_access/L05RDC_A.htm,RDC Only,No Link,RDC Only
+Laboratory,2009,2010,Chlamydia & Gonorrhea - Urine - Youth,CHLM_F_R Doc,/Nchs/Nhanes/limited_access/CHLM_F_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2005,2006,Chlamydia & Gonorrhea - Urine - Youth,CHLMD_DR Doc,/Nchs/Nhanes/limited_access/CHLMD_DR.htm,RDC Only,No Link,RDC Only
+Laboratory,2003,2004,Chlamydia & Gonorrhea - Urine - Youth,L05RDC_C Doc,/Nchs/Nhanes/limited_access/L05RDC_C.htm,RDC Only,No Link,RDC Only
+Laboratory,2001,2002,Chlamydia & Gonorrhea - Urine - Youth,L05RDC_B Doc,/Nchs/Nhanes/limited_access/L05RDC_B.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results ,SSCT_H Doc,/Nchs/Nhanes/2013-2014/SSCT_H.htm,SSCT_H Data [XPT - 37.3 KB],/Nchs/Nhanes/2013-2014/SSCT_H.XPT,Updated February 2021
 Laboratory,2015,2016,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results,SSCT_I Doc,/Nchs/Nhanes/2015-2016/SSCT_I.htm,SSCT_I Data [XPT - 33 KB],/Nchs/Nhanes/2015-2016/SSCT_I.XPT,Updated April 2022
+Laboratory,2013,2014,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results - Youth,SSCT_H_R Doc,/Nchs/Nhanes/limited_access/SSCT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results - Youth,SSCT_I_R Doc,/Nchs/Nhanes/limited_access/SSCT_I_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,Cholesterol - HDL,HDL_E Doc,/Nchs/Nhanes/2007-2008/HDL_E.htm,HDL_E Data [XPT - 191.8 KB],/Nchs/Nhanes/2007-2008/HDL_E.XPT,April 2010
 Laboratory,2005,2006,Cholesterol - HDL,HDL_D Doc,/Nchs/Nhanes/2005-2006/HDL_D.htm,HDL_D Data [XPT - 190.7 KB],/Nchs/Nhanes/2005-2006/HDL_D.XPT,Updated April 2010
 Laboratory,2009,2010,Cholesterol - HDL,HDL_F Doc,/Nchs/Nhanes/2009-2010/HDL_F.htm,HDL_F Data [XPT - 202.6 KB],/Nchs/Nhanes/2009-2010/HDL_F.XPT,September 2011
@@ -887,6 +1005,7 @@ Laboratory,1999,2000,Cholesterol - Total & HDL,LAB13 Doc,/Nchs/Nhanes/1999-2000/
 Laboratory,2001,2002,Cholesterol - Total & HDL,L13_B Doc,/Nchs/Nhanes/2001-2002/L13_B.htm,L13_B Data [XPT - 363.2 KB],/Nchs/Nhanes/2001-2002/L13_B.XPT,Updated April 2010
 Laboratory,2003,2004,Cholesterol - Total & HDL,L13_C Doc,/Nchs/Nhanes/2003-2004/L13_C.htm,L13_C Data [XPT - 335.6 KB],/Nchs/Nhanes/2003-2004/L13_C.XPT,Updated April 2010
 Laboratory,2001,2002,"Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam",L13_2_B Doc,/Nchs/Nhanes/2001-2002/L13_2_B.htm,L13_2_B Data [XPT - 44.6 KB],/Nchs/Nhanes/2001-2002/L13_2_B.XPT,September 2010
+Laboratory,2000,2000,"Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam",L13_2_R Doc,/Nchs/Nhanes/limited_access/L13_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2017,2018,Chromium - Urine,UCM_J Doc,/Nchs/Nhanes/2017-2018/UCM_J.htm,UCM_J Data [XPT - 94.4 KB],/Nchs/Nhanes/2017-2018/UCM_J.XPT,October 2020
 Laboratory,2017,2020,Chromium - Urine ,P_UCM Doc,/Nchs/Nhanes/2017-2018/P_UCM.htm,P_UCM Data [XPT - 154.1 KB],/Nchs/Nhanes/2017-2018/P_UCM.XPT,November 2021
 Laboratory,2015,2016,Chromium & Cobalt ,CRCO_I Doc,/Nchs/Nhanes/2015-2016/CRCO_I.htm,CRCO_I Data [XPT - 199.1 KB],/Nchs/Nhanes/2015-2016/CRCO_I.XPT,September 2017
@@ -903,6 +1022,7 @@ Laboratory,2011,2012,Complete Blood Count with 5-part Differential - Whole Blood
 Laboratory,2013,2014,Complete Blood Count with 5-part Differential - Whole Blood,CBC_H Doc,/Nchs/Nhanes/2013-2014/CBC_H.htm,CBC_H Data [XPT - 1.5 MB],/Nchs/Nhanes/2013-2014/CBC_H.XPT,July 2016
 Laboratory,2015,2016,Complete Blood Count with 5-Part Differential - Whole Blood,CBC_I Doc,/Nchs/Nhanes/2015-2016/CBC_I.htm,CBC_I Data [XPT - 1.5 MB],/Nchs/Nhanes/2015-2016/CBC_I.XPT,Updated January 2020
 Laboratory,2001,2002,"Complete Blood Count with 5-part Differential - Whole Blood, Second Exam",L25_2_B Doc,/Nchs/Nhanes/2001-2002/L25_2_B.htm,L25_2_B Data [XPT - 99.5 KB],/Nchs/Nhanes/2001-2002/L25_2_B.XPT,August 2010
+Laboratory,2000,2000,"Complete Blood Count with 5-part Differential - Whole Blood, Second Exam",L25_2_R Doc,/Nchs/Nhanes/limited_access/L25_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2017,2020,Complete Blood Count with 5-Part Differential in Whole Blood,P_CBC Doc,/Nchs/Nhanes/2017-2018/P_CBC.htm,P_CBC Data [XPT - 2.3 MB],/Nchs/Nhanes/2017-2018/P_CBC.XPT,June 2021
 Laboratory,2011,2012,"Copper, Selenium & Zinc - Serum",CUSEZN_G Doc,/Nchs/Nhanes/2011-2012/CUSEZN_G.htm,CUSEZN_G Data [XPT - 184.4 KB],/Nchs/Nhanes/2011-2012/CUSEZN_G.XPT,Updated October 2014
 Laboratory,2013,2014,"Copper, Selenium & Zinc - Serum",CUSEZN_H Doc,/Nchs/Nhanes/2013-2014/CUSEZN_H.htm,CUSEZN_H Data [XPT - 195.7 KB],/Nchs/Nhanes/2013-2014/CUSEZN_H.XPT,January 2016
@@ -922,6 +1042,7 @@ Laboratory,2013,2014,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites an
 Laboratory,2015,2016,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample",UCOTS_I Doc,/Nchs/Nhanes/2015-2016/UCOTS_I.htm,UCOTS_I Data [XPT - 465.6 KB],/Nchs/Nhanes/2015-2016/UCOTS_I.XPT,September 2019
 Laboratory,2003,2004,Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus),SSQFEV_C Doc,/Nchs/Nhanes/2003-2004/SSQFEV_C.htm,SSQFEV_C Data [XPT - 166.9 KB],/Nchs/Nhanes/2003-2004/SSQFEV_C.XPT,Updated April 2022
 Laboratory,2001,2002,"C-Reactive Protein & Others, Second Exam",L11_2_B Doc,/Nchs/Nhanes/2001-2002/L11_2_B.htm,L11_2_B Data [XPT - 32.2 KB],/Nchs/Nhanes/2001-2002/L11_2_B.XPT,July 2010
+Laboratory,2000,2000,"C-Reactive Protein & Others, Second Exam",L11_2_R Doc,/Nchs/Nhanes/limited_access/L11_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,C-Reactive Protein (CRP),CRP_E Doc,/Nchs/Nhanes/2007-2008/CRP_E.htm,CRP_E Data [XPT - 137.2 KB],/Nchs/Nhanes/2007-2008/CRP_E.XPT,September 2009
 Laboratory,1999,2000,C-Reactive Protein (CRP),LAB11 Doc,/Nchs/Nhanes/1999-2000/LAB11.htm,LAB11 Data [XPT - 458 KB],/Nchs/Nhanes/1999-2000/LAB11.XPT,Updated September 2008
 Laboratory,2005,2006,C-Reactive Protein (CRP),CRP_D Doc,/Nchs/Nhanes/2005-2006/CRP_D.htm,CRP_D Data [XPT - 148.5 KB],/Nchs/Nhanes/2005-2006/CRP_D.XPT,November 2007
@@ -929,6 +1050,7 @@ Laboratory,2009,2010,C-Reactive Protein (CRP),CRP_F Doc,/Nchs/Nhanes/2009-2010/C
 Laboratory,2003,2004,"C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)",L11_C Doc,/Nchs/Nhanes/2003-2004/L11_C.htm,L11_C Data [XPT - 288.1 KB],/Nchs/Nhanes/2003-2004/L11_C.XPT,February 2006
 Laboratory,2001,2002,"C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides",L11_B Doc,/Nchs/Nhanes/2001-2002/L11_B.htm,L11_B Data [XPT - 435.8 KB],/Nchs/Nhanes/2001-2002/L11_B.XPT,Updated June 2007
 Laboratory,2001,2002,"Creatinine & Albumin - Urine, Second Exam",L16_2_B Doc,/Nchs/Nhanes/2001-2002/L16_2_B.htm,L16_2_B Data [XPT - 27.6 KB],/Nchs/Nhanes/2001-2002/L16_2_B.XPT,September 2010
+Laboratory,2000,2000,"Creatinine & Albumin - Urine, Second Exam",L16_2_R Doc,/Nchs/Nhanes/limited_access/L16_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,Cryptosporidum & Toxoplasma,LAB17 Doc,/Nchs/Nhanes/1999-2000/LAB17.htm,LAB17 Data [XPT - 372.7 KB],/Nchs/Nhanes/1999-2000/LAB17.XPT,June 2002
 Laboratory,1999,2000,Cystatin C - Serum (Surplus),SSCYST_A Doc,/Nchs/Nhanes/1999-2000/SSCYST_A.htm,SSCYST_A Data [XPT - 60 KB],/Nchs/Nhanes/1999-2000/SSCYST_A.XPT,Updated April 2022
 Laboratory,2001,2002,Cystatin C (Surplus),SSCYST_B Doc,/Nchs/Nhanes/2001-2002/SSCYST_B.htm,SSCYST_B Data [XPT - 66.8 KB],/Nchs/Nhanes/2001-2002/SSCYST_B.XPT,Updated April 2022
@@ -949,6 +1071,11 @@ Laboratory,2015,2016,DEET Metabolites - Urine - Surplus ,SSDEET_I Doc,/Nchs/Nhan
 Laboratory,1999,2000,"Dioxins, Furans, & Coplanar PCBs",LAB28POC Doc,/Nchs/Nhanes/1999-2000/LAB28POC.htm,LAB28POC Data [XPT - 3.6 MB],/Nchs/Nhanes/1999-2000/LAB28POC.XPT,Updated January 2009
 Laboratory,2003,2004,"Dioxins, Furans, & Coplanar PCBs",L28DFP_C Doc,/Nchs/Nhanes/2003-2004/L28DFP_C.htm,L28DFP_C Data [XPT - 1.6 MB],/Nchs/Nhanes/2003-2004/L28DFP_C.XPT,April 2008
 Laboratory,2001,2002,"Dioxins, Furans, & Coplanar PCBs",L28POC_B Doc,/Nchs/Nhanes/2001-2002/L28POC_B.htm,L28POC_B Data [XPT - 3.8 MB],/Nchs/Nhanes/2001-2002/L28POC_B.XPT,Updated July 2007
+Laboratory,2014,2014,Electrolytes - 24-Hour Urine - First Collection,U1LT_H_R Doc,/Nchs/Nhanes/limited_access/U1LT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Electrolytes - 24-Hour Urine - Second Collection,U2LT_H_R Doc,/Nchs/Nhanes/limited_access/U2LT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Electrolytes - Home Urine Collection,HULT_H_R Doc,/Nchs/Nhanes/limited_access/HULT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Electrolytes - MEC Urine Collection - Surplus,SSLT_H_R Doc,/Nchs/Nhanes/limited_access/SSLT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2003,2006,Electrolytes - Urine,SSUECD_R Doc,/Nchs/Nhanes/limited_access/SSUECD_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,Environmental Phenols,EPH_E Doc,/Nchs/Nhanes/2007-2008/EPH_E.htm,EPH_E Data [XPT - 406.9 KB],/Nchs/Nhanes/2007-2008/EPH_E.XPT,Updated September 2011
 Laboratory,2003,2004,Environmental Phenols,L24EPH_C Doc,/Nchs/Nhanes/2003-2004/L24EPH_C.htm,L24EPH_C Data [XPT - 185.6 KB],/Nchs/Nhanes/2003-2004/L24EPH_C.XPT,Updated March 2013
 Laboratory,2009,2010,Environmental Phenols,EPH_F Doc,/Nchs/Nhanes/2009-2010/EPH_F.htm,EPH_F Data [XPT - 421.9 KB],/Nchs/Nhanes/2009-2010/EPH_F.XPT,October 2011
@@ -992,6 +1119,8 @@ Laboratory,2013,2014,Fluoride - Plasma,FLDEP_H Doc,/Nchs/Nhanes/2013-2014/FLDEP_
 Laboratory,2015,2016,Fluoride - Plasma ,FLDEP_I Doc,/Nchs/Nhanes/2015-2016/FLDEP_I.htm,FLDEP_I Data [XPT - 60.9 KB],/Nchs/Nhanes/2015-2016/FLDEP_I.XPT,Updated November 2019
 Laboratory,2013,2014,Fluoride - Water,FLDEW_H Doc,/Nchs/Nhanes/2013-2014/FLDEW_H.htm,FLDEW_H Data [XPT - 100.2 KB],/Nchs/Nhanes/2013-2014/FLDEW_H.XPT,Updated November 2019
 Laboratory,2015,2016,Fluoride - Water ,FLDEW_I Doc,/Nchs/Nhanes/2015-2016/FLDEW_I.htm,FLDEW_I Data [XPT - 96.6 KB],/Nchs/Nhanes/2015-2016/FLDEW_I.XPT,Updated November 2019
+Laboratory,2019,2020,Fluoride - Water,FLDW_K_R Doc,/Nchs/Nhanes/limited_access/FLDW_K_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2001,2002,Folate - Folic acid & 5-methyltetrahydrofolate - Serum (Surplus),SSFA_B_R Doc,/Nchs/Nhanes/limited_access/SSFA_B_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2011,2012,Folate - RBC,FOLATE_G Doc,/Nchs/Nhanes/2011-2012/FOLATE_G.htm,FOLATE_G Data [XPT - 211.1 KB],/Nchs/Nhanes/2011-2012/FOLATE_G.XPT,Updated February 2019
 Laboratory,2013,2014,Folate - RBC,FOLATE_H Doc,/Nchs/Nhanes/2013-2014/FOLATE_H.htm,FOLATE_H Data [XPT - 222 KB],/Nchs/Nhanes/2013-2014/FOLATE_H.XPT,February 2019
 Laboratory,2015,2016,Folate - RBC,FOLATE_I Doc,/Nchs/Nhanes/2015-2016/FOLATE_I.htm,FOLATE_I Data [XPT - 216 KB],/Nchs/Nhanes/2015-2016/FOLATE_I.XPT,February 2019
@@ -1007,6 +1136,7 @@ Laboratory,2011,2012,Folate Forms - Total & Individual - Serum ,FOLFMS_G Doc,/Nc
 Laboratory,2015,2016,Folate Forms - Total & Individual - Serum ,FOLFMS_I Doc,/Nchs/Nhanes/2015-2016/FOLFMS_I.htm,FOLFMS_I Data [XPT - 1.1 MB],/Nchs/Nhanes/2015-2016/FOLFMS_I.XPT,February 2019
 Laboratory,2017,2018,Folate Forms - Total & Individual - Serum,FOLFMS_J Doc,/Nchs/Nhanes/2017-2018/FOLFMS_J.htm,FOLFMS_J Data [XPT - 639.5 KB],/Nchs/Nhanes/2017-2018/FOLFMS_J.XPT,July 2020
 Laboratory,2017,2020,Folate Forms - Total & Individual - Serum,P_FOLFMS Doc,/Nchs/Nhanes/2017-2018/P_FOLFMS.htm,P_FOLFMS Data [XPT - 1 MB],/Nchs/Nhanes/2017-2018/P_FOLFMS.XPT,December 2021
+Laboratory,2001,2002,Folic Acid - Unmetabolized (Surplus),SSFOL_B Doc,/Nchs/Nhanes/limited_access/SSFOL_B.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,Folic Acid - Unmetabolized (Surplus),SSFOL_A Doc,/Nchs/Nhanes/1999-2000/SSFOL_A.htm,SSFOL_A Data [XPT - 70.3 KB],/Nchs/Nhanes/1999-2000/SSFOL_A.XPT,Updated April 2022
 Laboratory,2015,2016,Formaldehyde,FORMAL_I Doc,/Nchs/Nhanes/2015-2016/FORMAL_I.htm,FORMAL_I Data [XPT - 85.4 KB],/Nchs/Nhanes/2015-2016/FORMAL_I.XPT,January 2020
 Laboratory,2013,2014,Formaldehyde,FORMAL_H Doc,/Nchs/Nhanes/2013-2014/FORMAL_H.htm,FORMAL_H Data [XPT - 87.3 KB],/Nchs/Nhanes/2013-2014/FORMAL_H.XPT,March 2020
@@ -1022,7 +1152,12 @@ Laboratory,2013,2014,Glycohemoglobin,GHB_H Doc,/Nchs/Nhanes/2013-2014/GHB_H.htm,
 Laboratory,2015,2016,Glycohemoglobin,GHB_I Doc,/Nchs/Nhanes/2015-2016/GHB_I.htm,GHB_I Data [XPT - 106.4 KB],/Nchs/Nhanes/2015-2016/GHB_I.XPT,September 2017
 Laboratory,2017,2018,Glycohemoglobin,GHB_J Doc,/Nchs/Nhanes/2017-2018/GHB_J.htm,GHB_J Data [XPT - 101.1 KB],/Nchs/Nhanes/2017-2018/GHB_J.XPT,February 2020
 Laboratory,2017,2020,Glycohemoglobin,P_GHB Doc,/Nchs/Nhanes/2017-2018/P_GHB.htm,P_GHB Data [XPT - 163.7 KB],/Nchs/Nhanes/2017-2018/P_GHB.XPT,May 2021
+Laboratory,2000,2000,"Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam",L10_2_00 Doc,/Nchs/Nhanes/limited_access/L10_2_00.htm,RDC Only,No Link,RDC Only
 Laboratory,2001,2002,"Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam",L10_2_B Doc,/Nchs/Nhanes/2001-2002/L10_2_B.htm,L10_2_B Data [XPT - 41.2 KB],/Nchs/Nhanes/2001-2002/L10_2_B.XPT,January 2010
+Laboratory,2001,2001,Helicobacter pylori (HP1),HP_01_R Doc,/Nchs/Nhanes/limited_access/HP_01_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2001,2001,"Helicobacter pylori (HP1), Second Exam",HP2_01_R Doc,/Nchs/Nhanes/limited_access/HP2_01_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2007,2008,Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus),SSH1N1_E Doc,/Nchs/Nhanes/limited_access/SSH1N1_E.htm,RDC Only,No Link,RDC Only
+Laboratory,2010,2010,Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus),SSHN10_R Doc,/Nchs/Nhanes/limited_access/SSHN10_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Hepatitis A,HEPA_H Doc,/Nchs/Nhanes/2013-2014/HEPA_H.htm,HEPA_H Data [XPT - 144.4 KB],/Nchs/Nhanes/2013-2014/HEPA_H.XPT,October 2015
 Laboratory,2015,2016,Hepatitis A,HEPA_I Doc,/Nchs/Nhanes/2015-2016/HEPA_I.htm,HEPA_I Data [XPT - 139.9 KB],/Nchs/Nhanes/2015-2016/HEPA_I.XPT,September 2017
 Laboratory,2017,2018,Hepatitis A,HEPA_J Doc,/Nchs/Nhanes/2017-2018/HEPA_J.htm,HEPA_J Data [XPT - 128.4 KB],/Nchs/Nhanes/2017-2018/HEPA_J.XPT,February 2020
@@ -1056,6 +1191,8 @@ Laboratory,2017,2018,Hepatitis B: Surface Antibody,HEPB_S_J Doc,/Nchs/Nhanes/201
 Laboratory,2007,2012,Hepatitis C Antibody Reflex Testing - Serum (Surplus),SSHCV_E Doc,/Nchs/Nhanes/2007-2008/SSHCV_E.htm,SSHCV_E Data [XPT - 31.8 KB],/Nchs/Nhanes/2007-2008/SSHCV_E.XPT,Updated April 2022
 Laboratory,2003,2004,Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus),SSHCVR_C Doc,/Nchs/Nhanes/2003-2004/SSHCVR_C.htm,SSHCVR_C Data [XPT - 3 KB],/Nchs/Nhanes/2003-2004/SSHCVR_C.XPT,July 2012
 Laboratory,2013,2014,Hepatitis C: Confirmed Antibody (INNO-LIA) ,SSHEPC_H Doc,/Nchs/Nhanes/2013-2014/SSHEPC_H.htm,SSHEPC_H Data [XPT - 112.8 KB],/Nchs/Nhanes/2013-2014/SSHEPC_H.XPT,Updated November 2021
+Laboratory,2015,2015,Hepatitis C: Confirmed Antibody (INNO-LIA) - 2015,SSHC_I_R Doc,/Nchs/Nhanes/limited_access/SSHC_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2016,2016,Hepatitis C: Confirmed Antibody (INNO-LIA) - 2016,HEPC_I_R Doc,/Nchs/Nhanes/limited_access/HEPC_I_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",HEPC_E Doc,/Nchs/Nhanes/2007-2008/HEPC_E.htm,HEPC_E Data [XPT - 255.4 KB],/Nchs/Nhanes/2007-2008/HEPC_E.XPT,Updated February 2015
 Laboratory,2005,2006,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",HEPC_D Doc,/Nchs/Nhanes/2005-2006/HEPC_D.htm,HEPC_D Data [XPT - 254 KB],/Nchs/Nhanes/2005-2006/HEPC_D.XPT,Updated February 2015
 Laboratory,2009,2010,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",HEPC_F Doc,/Nchs/Nhanes/2009-2010/HEPC_F.htm,HEPC_F Data [XPT - 269.8 KB],/Nchs/Nhanes/2009-2010/HEPC_F.XPT,Updated February 2015
@@ -1079,6 +1216,19 @@ Laboratory,2013,2014,Herpes Simplex Virus Type-1 & Type-2,HSV_H Doc,/Nchs/Nhanes
 Laboratory,2015,2016,Herpes Simplex Virus Type-1 & Type-2,HSV_I Doc,/Nchs/Nhanes/2015-2016/HSV_I.htm,HSV_I Data [XPT - 88.1 KB],/Nchs/Nhanes/2015-2016/HSV_I.XPT,December 2017
 Laboratory,2001,2002,Herpes Simplex Virus Type-1 (Surplus),SSHSV1_B Doc,/Nchs/Nhanes/2001-2002/SSHSV1_B.htm,SSHSV1_B Data [XPT - 47.5 KB],/Nchs/Nhanes/2001-2002/SSHSV1_B.XPT,Updated April 2022
 Laboratory,1999,2000,Herpes Simplex Virus Type-1 (Surplus),SSHSV1_A Doc,/Nchs/Nhanes/1999-2000/SSHSV1_A.htm,SSHSV1_A Data [XPT - 39.1 KB],/Nchs/Nhanes/1999-2000/SSHSV1_A.XPT,Updated April 2022
+Laboratory,2017,2018,Herpes Simplex Virus Type-1 and Type-2,HSVA_J_R Doc,/Nchs/Nhanes/limited_access/HSVA_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Herpes Simplex Virus Type-1 and Type-2,P_HSVA_R Doc,/Nchs/Nhanes/limited_access/P_HSVA_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Herpes Simplex Virus Type-1 and Type-2 - Youth,HSV_I_R Doc,/Nchs/Nhanes/limited_access/HSV_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Herpes Simplex Virus Type-1 and Type-2 - Youth,P_HSV_R Doc,/Nchs/Nhanes/limited_access/P_HSV_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2007,2008,Herpes Simplex Virus Type-2 - Youth,HSV_E_R Doc,/Nchs/Nhanes/limited_access/HSV_E_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2005,2006,Herpes Simplex Virus Type-2 - Youth,HSV_DR Doc,/Nchs/Nhanes/limited_access/HSV_DR.htm,RDC Only,No Link,RDC Only
+Laboratory,2003,2004,Herpes Simplex Virus Type-2 - Youth,L09RDC_C Doc,/Nchs/Nhanes/limited_access/L09RDC_C.htm,RDC Only,No Link,RDC Only
+Laboratory,1999,2000,Herpes Simplex Virus Type-2 - Youth,L09RDC_A Doc,/Nchs/Nhanes/limited_access/L09RDC_A.htm,RDC Only,No Link,RDC Only
+Laboratory,2001,2002,Herpes Simplex Virus Type-2 - Youth,L09RDC_B Doc,/Nchs/Nhanes/limited_access/L09RDC_B.htm,RDC Only,No Link,RDC Only
+Laboratory,2009,2010,Herpes Simplex Virus Type-2 - Youth,HSV_F_R Doc,/Nchs/Nhanes/limited_access/HSV_F_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2011,2012,Herpes Simplex Virus Type-2 - Youth,HSV_G_R Doc,/Nchs/Nhanes/limited_access/HSV_G_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2013,2014,Herpes Simplex Virus Type-2 - Youth,HSV_H_R Doc,/Nchs/Nhanes/limited_access/HSV_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Herpes Simplex Virus Type-2 - Youth,HSV_J_R Doc,/Nchs/Nhanes/limited_access/HSV_J_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Heterocyclic Aromatic Amines - Urine ,HCAA_H Doc,/Nchs/Nhanes/2013-2014/HCAA_H.htm,HCAA_H Data [XPT - 477.3 KB],/Nchs/Nhanes/2013-2014/HCAA_H.XPT,September 2017
 Laboratory,2013,2014,Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample,HCAAS_H Doc,/Nchs/Nhanes/2013-2014/HCAAS_H.htm,HCAAS_H Data [XPT - 451.5 KB],/Nchs/Nhanes/2013-2014/HCAAS_H.XPT,September 2017
 Laboratory,2017,2018,High-Sensitivity C-Reactive Protein,HSCRP_J Doc,/Nchs/Nhanes/2017-2018/HSCRP_J.htm,HSCRP_J Data [XPT - 197.3 KB],/Nchs/Nhanes/2017-2018/HSCRP_J.XPT,February 2020
@@ -1090,38 +1240,67 @@ Laboratory,2011,2012,HIV Antibody Test,HIV_G Doc,/Nchs/Nhanes/2011-2012/HIV_G.ht
 Laboratory,2013,2014,HIV Antibody Test,HIV_H Doc,/Nchs/Nhanes/2013-2014/HIV_H.htm,HIV_H Data [XPT - 65.7 KB],/Nchs/Nhanes/2013-2014/HIV_H.XPT,October 2015
 Laboratory,2015,2016,HIV Antibody Test ,HIV_I Doc,/Nchs/Nhanes/2015-2016/HIV_I.htm,HIV_I Data [XPT - 154.8 KB],/Nchs/Nhanes/2015-2016/HIV_I.XPT,September 2017
 Laboratory,2017,2018,HIV Antibody Test ,HIV_J Doc,/Nchs/Nhanes/2017-2018/HIV_J.htm,HIV_J Data [XPT - 138.8 KB],/Nchs/Nhanes/2017-2018/HIV_J.XPT,February 2020
+Laboratory,2017,2020,HIV Antibody Test,P_HIV_R Doc,/Nchs/Nhanes/limited_access/P_HIV_R.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",LAB03 Doc,/Nchs/Nhanes/1999-2000/LAB03.htm,LAB03 Data [XPT - 89.4 KB],/Nchs/Nhanes/1999-2000/LAB03.XPT,Updated August 2006
 Laboratory,2005,2006,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",HIV_D Doc,/Nchs/Nhanes/2005-2006/HIV_D.htm,HIV_D Data [XPT - 101.7 KB],/Nchs/Nhanes/2005-2006/HIV_D.XPT,December 2007
 Laboratory,2003,2004,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",L03_C Doc,/Nchs/Nhanes/2003-2004/L03_C.htm,L03_C Data [XPT - 94.3 KB],/Nchs/Nhanes/2003-2004/L03_C.XPT,Updated August 2006
 Laboratory,2001,2002,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",L03_B Doc,/Nchs/Nhanes/2001-2002/L03_B.htm,L03_B Data [XPT - 104.4 KB],/Nchs/Nhanes/2001-2002/L03_B.XPT,Updated August 2006
 Laboratory,2005,2006,Homocysteine,HCY_D Doc,/Nchs/Nhanes/2005-2006/HCY_D.htm,HCY_D Data [XPT - 75.6 KB],/Nchs/Nhanes/2005-2006/HCY_D.XPT,March 2009
+Laboratory,2009,2009,Human Leukocyte Antigen B-27,B27_F_R Doc,/Nchs/Nhanes/limited_access/B27_F_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2009,2010,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum",HPVSER_F Doc,/Nchs/Nhanes/2009-2010/HPVSER_F.htm,HPVSER_F Data [XPT - 171.6 KB],/Nchs/Nhanes/2009-2010/HPVSER_F.XPT,November 2013
+Laboratory,2005,2006,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth",HPVS_D_R Doc,/Nchs/Nhanes/limited_access/HPVS_D_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2007,2008,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth",SER_E_R Doc,/Nchs/Nhanes/limited_access/SER_E_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2009,2010,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth",SER_F_R Doc,/Nchs/Nhanes/limited_access/SER_F_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum: 4-plex CLIA",L52SER_C Doc,/Nchs/Nhanes/2003-2004/L52SER_C.htm,L52SER_C Data [XPT - 140.2 KB],/Nchs/Nhanes/2003-2004/L52SER_C.XPT,December 2008
 Laboratory,2007,2008,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA ",HPVSER_E Doc,/Nchs/Nhanes/2007-2008/HPVSER_E.htm,HPVSER_E Data [XPT - 155.7 KB],/Nchs/Nhanes/2007-2008/HPVSER_E.XPT,November 2013
 Laboratory,2005,2006,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA",HPVSER_D Doc,/Nchs/Nhanes/2005-2006/HPVSER_D.htm,HPVSER_D Data [XPT - 151.6 KB],/Nchs/Nhanes/2005-2006/HPVSER_D.XPT,July 2013
+Laboratory,2005,2006,"Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 22, 45, 52 & 58 Antibody - Serum - Youth",HPVM_D_R Doc,/Nchs/Nhanes/limited_access/HPVM_D_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2005,2006,"Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 22, 45, 52 & 58 Antibody – Serum: 9-plex CLIA ",HPVSRM_D Doc,/Nchs/Nhanes/2005-2006/HPVSRM_D.htm,HPVSRM_D Data [XPT - 302.6 KB],/Nchs/Nhanes/2005-2006/HPVSRM_D.XPT,January 2015
 Laboratory,2009,2010,Human Papillomavirus (HPV) - Oral Rinse,ORHPV_F Doc,/Nchs/Nhanes/2009-2010/ORHPV_F.htm,ORHPV_F Data [XPT - 1.7 MB],/Nchs/Nhanes/2009-2010/ORHPV_F.XPT,October 2011
 Laboratory,2011,2012,Human Papillomavirus (HPV) - Oral Rinse,ORHPV_G Doc,/Nchs/Nhanes/2011-2012/ORHPV_G.htm,ORHPV_G Data [XPT - 1.5 MB],/Nchs/Nhanes/2011-2012/ORHPV_G.XPT,February 2014
 Laboratory,2013,2014,Human Papillomavirus (HPV) - Oral Rinse,ORHPV_H Doc,/Nchs/Nhanes/2013-2014/ORHPV_H.htm,ORHPV_H Data [XPT - 1.6 MB],/Nchs/Nhanes/2013-2014/ORHPV_H.XPT,October 2016
 Laboratory,2015,2016,Human Papillomavirus (HPV) - Oral Rinse,ORHPV_I Doc,/Nchs/Nhanes/2015-2016/ORHPV_I.htm,ORHPV_I Data [XPT - 1.5 MB],/Nchs/Nhanes/2015-2016/ORHPV_I.XPT,January 2019
+Laboratory,2009,2010,Human Papillomavirus (HPV) - Oral Rinse - Youth,OHPV_F_R Doc,/Nchs/Nhanes/limited_access/OHPV_F_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2011,2012,Human Papillomavirus (HPV) - Oral Rinse - Youth,OHPV_G_R Doc,/Nchs/Nhanes/limited_access/OHPV_G_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2013,2014,Human Papillomavirus (HPV) - Oral Rinse - Youth,OHPV_H_R Doc,/Nchs/Nhanes/limited_access/OHPV_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Human Papillomavirus (HPV) - Oral Rinse - Youth,OHPV_I_R Doc,/Nchs/Nhanes/limited_access/OHPV_I_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array,HPVP_I Doc,/Nchs/Nhanes/2015-2016/HPVP_I.htm,HPVP_I Data [XPT - 602.8 KB],/Nchs/Nhanes/2015-2016/HPVP_I.XPT,Updated August 2021
+Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array - Youth,HPVP_I_R Doc,/Nchs/Nhanes/limited_access/HPVP_I_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay,L37SWA_C Doc,/Nchs/Nhanes/2003-2004/L37SWA_C.htm,L37SWA_C Data [XPT - 616.5 KB],/Nchs/Nhanes/2003-2004/L37SWA_C.XPT,Updated October 2010
+Laboratory,2003,2004,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay - Youth,SWA_C_R Doc,/Nchs/Nhanes/limited_access/SWA_C_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2005,2006,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,HPVSWR_D Doc,/Nchs/Nhanes/2005-2006/HPVSWR_D.htm,HPVSWR_D Data [XPT - 694.4 KB],/Nchs/Nhanes/2005-2006/HPVSWR_D.XPT,November 2010
 Laboratory,2007,2008,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,HPVSWR_E Doc,/Nchs/Nhanes/2007-2008/HPVSWR_E.htm,HPVSWR_E Data [XPT - 677.9 KB],/Nchs/Nhanes/2007-2008/HPVSWR_E.XPT,August 2012
 Laboratory,2009,2010,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,HPVSWR_F Doc,/Nchs/Nhanes/2009-2010/HPVSWR_F.htm,HPVSWR_F Data [XPT - 725.2 KB],/Nchs/Nhanes/2009-2010/HPVSWR_F.XPT,August 2012
 Laboratory,2011,2012,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,HPVSWR_G Doc,/Nchs/Nhanes/2011-2012/HPVSWR_G.htm,HPVSWR_G Data [XPT - 661.1 KB],/Nchs/Nhanes/2011-2012/HPVSWR_G.XPT,March 2015
 Laboratory,2005,2006,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,HPVSWR_D Doc,/Nchs/Nhanes/2005-2006/HPVSWR_D.htm,HPVSWR_D Data [XPT - 694.4 KB],/Nchs/Nhanes/2005-2006/HPVSWR_D.XPT,Updated November 2018
+Laboratory,2009,2010,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth,HPVS_F_R Doc,/Nchs/Nhanes/limited_access/HPVS_F_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2011,2012,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth,HPVS_G_R Doc,/Nchs/Nhanes/limited_access/HPVS_G_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2007,2008,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth,SWR_E_R Doc,/Nchs/Nhanes/limited_access/SWR_E_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2005,2006,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth ,SWR_D_R Doc,/Nchs/Nhanes/limited_access/SWR_D_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array,HPVSWR_H Doc,/Nchs/Nhanes/2013-2014/HPVSWR_H.htm,HPVSWR_H Data [XPT - 716.6 KB],/Nchs/Nhanes/2013-2014/HPVSWR_H.XPT,December 2016
+Laboratory,2013,2014,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array - Youth,HPVS_H_R Doc,/Nchs/Nhanes/limited_access/HPVS_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk ,HPVSWC_I Doc,/Nchs/Nhanes/2015-2016/HPVSWC_I.htm,HPVSWC_I Data [XPT - 33.3 KB],/Nchs/Nhanes/2015-2016/HPVSWC_I.XPT,November 2018
+Laboratory,2017,2018,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk - Adults,HPWC_J_R Doc,/Nchs/Nhanes/limited_access/HPWC_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk - Youth,HPVC_I_R Doc,/Nchs/Nhanes/limited_access/HPVC_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk - Youth,HPVC_J_R Doc,/Nchs/Nhanes/limited_access/HPVC_J_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array,L37SWR_C Doc,/Nchs/Nhanes/2003-2004/L37SWR_C.htm,L37SWR_C Data [XPT - 601.8 KB],/Nchs/Nhanes/2003-2004/L37SWR_C.XPT,November 2010
 Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array ,HPVSWR_I Doc,/Nchs/Nhanes/2015-2016/HPVSWR_I.htm,HPVSWR_I Data [XPT - 667.5 KB],/Nchs/Nhanes/2015-2016/HPVSWR_I.XPT,November 2018
+Laboratory,2017,2018,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array - Adults,HPVW_J_R Doc,/Nchs/Nhanes/limited_access/HPVW_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2003,2004,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array - Youth,SWR_C_R Doc,/Nchs/Nhanes/limited_access/SWR_C_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array - Youth  ,HPVS_I_R Doc,/Nchs/Nhanes/limited_access/HPVS_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array - Youth,HPVS_J_R Doc,/Nchs/Nhanes/limited_access/HPVS_J_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2013,2014,Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array,HPVP_H Doc,/Nchs/Nhanes/2013-2014/HPVP_H.htm,HPVP_H Data [XPT - 639 KB],/Nchs/Nhanes/2013-2014/HPVP_H.XPT,June 2016
+Laboratory,2013,2014,Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth),HPVP_H_R Doc,/Nchs/Nhanes/limited_access/HPVP_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2009,2010,Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections - Youth (Surplus),SSHP_F_R Doc,/Nchs/Nhanes/limited_access/SSHP_F_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2009,2010,Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus),SSHPV_F Doc,/Nchs/Nhanes/2009-2010/SSHPV_F.htm,SSHPV_F Data [XPT - 31.5 KB],/Nchs/Nhanes/2009-2010/SSHPV_F.XPT,Updated April 2022
+Laboratory,2010,2010,Influenza A (H3N2) Variant Virus & Historical Seasonal H3N2 Influenza Viruses Antibodies (Surplus),SSIF_F_R Doc,/Nchs/Nhanes/limited_access/SSIF_F_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2017,2020,"Inorganic, Ethyl and Methyl - Blood ",P_IHGEM Doc,/Nchs/Nhanes/2017-2018/P_IHGEM.htm,P_IHGEM Data [XPT - 1.1 MB],/Nchs/Nhanes/2017-2018/P_IHGEM.XPT,November 2021
 Laboratory,2013,2014,Insulin,INS_H Doc,/Nchs/Nhanes/2013-2014/INS_H.htm,INS_H Data [XPT - 157.7 KB],/Nchs/Nhanes/2013-2014/INS_H.XPT,April 2016
 Laboratory,2015,2016,Insulin ,INS_I Doc,/Nchs/Nhanes/2015-2016/INS_I.htm,INS_I Data [XPT - 176.2 KB],/Nchs/Nhanes/2015-2016/INS_I.XPT,June 2018
 Laboratory,2017,2018,Insulin,INS_J Doc,/Nchs/Nhanes/2017-2018/INS_J.htm,INS_J Data [XPT - 120 KB],/Nchs/Nhanes/2017-2018/INS_J.XPT,August 2020
 Laboratory,2017,2020,Insulin,P_INS Doc,/Nchs/Nhanes/2017-2018/P_INS.htm,P_INS Data [XPT - 200.2 KB],/Nchs/Nhanes/2017-2018/P_INS.XPT,August 2021
+Laboratory,2014,2014,Iodine - 24-Hour Urine - First Collection,U1IO_H_R Doc,/Nchs/Nhanes/limited_access/U1IO_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Iodine - 24-Hour Urine - Second Collection,U2IO_H_R Doc,/Nchs/Nhanes/limited_access/U2IO_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,Iodine - Urine,UIO_E Doc,/Nchs/Nhanes/2007-2008/UIO_E.htm,UIO_E Data [XPT - 191.8 KB],/Nchs/Nhanes/2007-2008/UIO_E.XPT,December 2009
 Laboratory,2005,2006,Iodine - Urine,UIO_D Doc,/Nchs/Nhanes/2005-2006/UIO_D.htm,UIO_D Data [XPT - 87.4 KB],/Nchs/Nhanes/2005-2006/UIO_D.XPT,July 2008
 Laboratory,2003,2004,Iodine - Urine,L06UIO_C Doc,/Nchs/Nhanes/2003-2004/L06UIO_C.htm,L06UIO_C Data [XPT - 82.9 KB],/Nchs/Nhanes/2003-2004/L06UIO_C.XPT,December 2007
@@ -1132,20 +1311,28 @@ Laboratory,2013,2014,Iodine - Urine,UIO_H Doc,/Nchs/Nhanes/2013-2014/UIO_H.htm,U
 Laboratory,2015,2016,Iodine - Urine,UIO_I Doc,/Nchs/Nhanes/2015-2016/UIO_I.htm,UIO_I Data [XPT - 103.8 KB],/Nchs/Nhanes/2015-2016/UIO_I.XPT,June 2018
 Laboratory,2017,2018,Iodine - Urine,UIO_J Doc,/Nchs/Nhanes/2017-2018/UIO_J.htm,UIO_J Data [XPT - 94.4 KB],/Nchs/Nhanes/2017-2018/UIO_J.XPT,October 2020
 Laboratory,2017,2020,Iodine - Urine,P_UIO Doc,/Nchs/Nhanes/2017-2018/P_UIO.htm,P_UIO Data [XPT - 154.1 KB],/Nchs/Nhanes/2017-2018/P_UIO.XPT,November 2021
+Laboratory,2009,2012,Iodine - Urine - Pregnant Women (Surplus),SSUIFG_R Doc,/Nchs/Nhanes/limited_access/SSUIFG_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2017,2018,Iron Status - Serum,FETIB_J Doc,/Nchs/Nhanes/2017-2018/FETIB_J.htm,FETIB_J Data [XPT - 452 KB],/Nchs/Nhanes/2017-2018/FETIB_J.XPT,February 2020
 Laboratory,2017,2020,Iron Status - Serum,P_FETIB Doc,/Nchs/Nhanes/2017-2018/P_FETIB.htm,P_FETIB Data [XPT - 733.9 KB],/Nchs/Nhanes/2017-2018/P_FETIB.XPT,August 2021
 Laboratory,2005,2006,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",FETIB_D Doc,/Nchs/Nhanes/2005-2006/FETIB_D.htm,FETIB_D Data [XPT - 167.4 KB],/Nchs/Nhanes/2005-2006/FETIB_D.XPT,December 2007
 Laboratory,2003,2004,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",L40FE_C Doc,/Nchs/Nhanes/2003-2004/L40FE_C.htm,L40FE_C Data [XPT - 153.4 KB],/Nchs/Nhanes/2003-2004/L40FE_C.XPT,Updated April 2006
 Laboratory,2001,2002,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",L40FE_B Doc,/Nchs/Nhanes/2001-2002/L40FE_B.htm,L40FE_B Data [XPT - 467 KB],/Nchs/Nhanes/2001-2002/L40FE_B.XPT,August 2005
+Laboratory,2014,2014,Kidney Markers - 24-Hour Urine - First Collection,U1KM_H_R Doc,/Nchs/Nhanes/limited_access/U1KM_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Kidney Markers - 24-Hour Urine - Second Collection,U2KM_H_R Doc,/Nchs/Nhanes/limited_access/U2KM_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Kidney Markers - Home Urine Collection,HUKM_H_R Doc,/Nchs/Nhanes/limited_access/HUKM_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2007,2008,Klotho - Serum (Surplus),SSKL_E Doc,/Nchs/Nhanes/2007-2008/SSKL_E.htm,SSKL_E Data [XPT - 48 KB],/Nchs/Nhanes/2007-2008/SSKL_E.XPT,April 2021
 Laboratory,2009,2010,Klotho - Serum (Surplus),SSKL_F Doc,/Nchs/Nhanes/2009-2010/SSKL_F.htm,SSKL_F Data [XPT - 46.3 KB],/Nchs/Nhanes/2009-2010/SSKL_F.XPT,April 2021
 Laboratory,2011,2012,Klotho - Serum (Surplus),SSKL_G Doc,/Nchs/Nhanes/2011-2012/SSKL_G.htm,SSKL_G Data [XPT - 39.5 KB],/Nchs/Nhanes/2011-2012/SSKL_G.XPT,Updated April 2022
 Laboratory,2013,2014,Klotho - Serum (Surplus),SSKL_H Doc,/Nchs/Nhanes/2013-2014/SSKL_H.htm,SSKL_H Data [XPT - 44.3 KB],/Nchs/Nhanes/2013-2014/SSKL_H.XPT,April 2021
 Laboratory,2015,2016,Klotho - Serum (Surplus),SSKL_I Doc,/Nchs/Nhanes/2015-2016/SSKL_I.htm,SSKL_I Data [XPT - 42.3 KB],/Nchs/Nhanes/2015-2016/SSKL_I.XPT,April 2021
 Laboratory,1999,2000,Latex,LAB07 Doc,/Nchs/Nhanes/1999-2000/LAB07.htm,LAB07 Data [XPT - 122 KB],/Nchs/Nhanes/1999-2000/LAB07.XPT,June 2002
+Laboratory,2017,2018,Lead - Blood - Youth ,PBY_J_R Doc,/Nchs/Nhanes/limited_access/PBY_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Lead - Blood - Youth,P_PBY_R Doc,/Nchs/Nhanes/limited_access/P_PBY_R.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,Lead - Dust,LAB20 Doc,/Nchs/Nhanes/1999-2000/LAB20.htm,LAB20 Data [XPT - 173 KB],/Nchs/Nhanes/1999-2000/LAB20.XPT,June 2006
 Laboratory,2003,2004,Lead - Dust,L20_C Doc,/Nchs/Nhanes/2003-2004/L20_C.htm,L20_C Data [XPT - 201.4 KB],/Nchs/Nhanes/2003-2004/L20_C.XPT,June 2006
 Laboratory,2001,2002,Lead - Dust,L20_B Doc,/Nchs/Nhanes/2001-2002/L20_B.htm,L20_B Data [XPT - 211.2 KB],/Nchs/Nhanes/2001-2002/L20_B.XPT,June 2006
+Laboratory,2017,2018,"Lead (Youth), Strontium, and Uranium",UM_J_R Doc,/Nchs/Nhanes/limited_access/UM_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,"Lead (Youth), Strontium, and Uranium - Urine",P_UM_R Doc,/Nchs/Nhanes/limited_access/P_UM_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2015,2016,"Lead, Cadmium, Total Mercury, Selenium & Manganese - Blood",PBCD_I Doc,/Nchs/Nhanes/2015-2016/PBCD_I.htm,PBCD_I Data [XPT - 775.4 KB],/Nchs/Nhanes/2015-2016/PBCD_I.XPT,January 2018
 Laboratory,2017,2018,"Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood",PBCD_J Doc,/Nchs/Nhanes/2017-2018/PBCD_J.htm,PBCD_J Data [XPT - 1 MB],/Nchs/Nhanes/2017-2018/PBCD_J.XPT,June 2020
 Laboratory,2017,2020,"Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood ",P_PBCD Doc,/Nchs/Nhanes/2017-2018/P_PBCD.htm,P_PBCD Data [XPT - 1.7 MB],/Nchs/Nhanes/2017-2018/P_PBCD.XPT,November 2021
@@ -1155,6 +1342,7 @@ Laboratory,1999,2000,"Measles, Rubella, & Varicella",LAB19 Doc,/Nchs/Nhanes/1999
 Laboratory,2003,2004,"Measles, Rubella, & Varicella",L19_C Doc,/Nchs/Nhanes/2003-2004/L19_C.htm,L19_C Data [XPT - 178 KB],/Nchs/Nhanes/2003-2004/L19_C.XPT,April 2006
 Laboratory,2001,2002,"Measles, Rubella, & Varicella",L19_B Doc,/Nchs/Nhanes/2001-2002/L19_B.htm,L19_B Data [XPT - 199.8 KB],/Nchs/Nhanes/2001-2002/L19_B.XPT,Updated April 2006
 Laboratory,2001,2002,"Measles, Rubella, & Varicella, Second Exam",L19_2_B Doc,/Nchs/Nhanes/2001-2002/L19_2_B.htm,L19_2_B Data [XPT - 19.1 KB],/Nchs/Nhanes/2001-2002/L19_2_B.XPT,September 2010
+Laboratory,2000,2000,"Measles, Rubella, & Varicella, Second Exam",L19_2_R Doc,/Nchs/Nhanes/limited_access/L19_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Melamine - Urine (Surplus),SSMEL_C Doc,/Nchs/Nhanes/2003-2004/SSMEL_C.htm,SSMEL_C Data [XPT - 16.4 KB],/Nchs/Nhanes/2003-2004/SSMEL_C.XPT,Updated April 2022
 Laboratory,1999,2000,Mercury - Hair,LAB22 Doc,/Nchs/Nhanes/1999-2000/LAB22.htm,LAB22 Data [XPT - 134.4 KB],/Nchs/Nhanes/1999-2000/LAB22.XPT,Updated January 2005
 Laboratory,2005,2006,Mercury: Inorganic - Blood,IHG_D Doc,/Nchs/Nhanes/2005-2006/IHG_D.htm,IHG_D Data [XPT - 296.2 KB],/Nchs/Nhanes/2005-2006/IHG_D.XPT,June 2013
@@ -1199,6 +1387,10 @@ Laboratory,2001,2002,Monoclonal gammopathy of undetermined significance (MGUS) (
 Laboratory,2003,2004,Mumps Antibody - Serum (Surplus),SSMUMP_C Doc,/Nchs/Nhanes/2003-2004/SSMUMP_C.htm,SSMUMP_C Data [XPT - 153.7 KB],/Nchs/Nhanes/2003-2004/SSMUMP_C.XPT,Updated April 2022
 Laboratory,2001,2002,Mumps Antibody - Serum (Surplus),SSMUMP_B Doc,/Nchs/Nhanes/2001-2002/SSMUMP_B.htm,SSMUMP_B Data [XPT - 204.9 KB],/Nchs/Nhanes/2001-2002/SSMUMP_B.XPT,Updated April 2022
 Laboratory,1999,2000,Mumps Antibody - Serum (Surplus),SSMUMP_A Doc,/Nchs/Nhanes/1999-2000/SSMUMP_A.htm,SSMUMP_A Data [XPT - 163.1 KB],/Nchs/Nhanes/1999-2000/SSMUMP_A.XPT,Updated April 2022
+Laboratory,2017,2018,Mycoplasma genitalium - Urine - Adult,MGEA_J_R Doc,/Nchs/Nhanes/limited_access/MGEA_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Mycoplasma genitalium - Urine - Youth,MGEN_J_R Doc,/Nchs/Nhanes/limited_access/MGEN_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Mycoplasma genitalium- Urine - Adult,P_MGEA_R Doc,/Nchs/Nhanes/limited_access/P_MGEA_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Mycoplasma genitalium- Urine -Youth,P_MGEN_R Doc,/Nchs/Nhanes/limited_access/P_MGEN_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2015,2016,Neonicotinoids - Urine - Surplus,SSNEON_I Doc,/Nchs/Nhanes/2015-2016/SSNEON_I.htm,SSNEON_I Data [XPT - 269.4 KB],/Nchs/Nhanes/2015-2016/SSNEON_I.XPT,Updated April 2022
 Laboratory,2017,2018,Nickel - Urine,UNI_J Doc,/Nchs/Nhanes/2017-2018/UNI_J.htm,UNI_J Data [XPT - 94.4 KB],/Nchs/Nhanes/2017-2018/UNI_J.XPT,October 2020
 Laboratory,2017,2020,Nickel - Urine,P_UNI Doc,/Nchs/Nhanes/2017-2018/P_UNI.htm,P_UNI Data [XPT - 154.1 KB],/Nchs/Nhanes/2017-2018/P_UNI.XPT,November 2021
@@ -1229,6 +1421,8 @@ Laboratory,2011,2012,Osmolality - Urine,UCOSMO_G Doc,/Nchs/Nhanes/2011-2012/UCOS
 Laboratory,2005,2006,Parathyroid Hormone,PTH_D Doc,/Nchs/Nhanes/2005-2006/PTH_D.htm,PTH_D Data [XPT - 127.4 KB],/Nchs/Nhanes/2005-2006/PTH_D.XPT,January 2008
 Laboratory,2003,2004,Perchlorate - Urine,L04PER_C Doc,/Nchs/Nhanes/2003-2004/L04PER_C.htm,L04PER_C Data [XPT - 82.9 KB],/Nchs/Nhanes/2003-2004/L04PER_C.XPT,Updated March 2011
 Laboratory,2005,2006,"Perchlorate, Nitrate & Iodide - Tap Water",WPIN_D Doc,/Nchs/Nhanes/2005-2006/WPIN_D.htm,WPIN_D Data [XPT - 216.5 KB],/Nchs/Nhanes/2005-2006/WPIN_D.XPT,April 2009
+Laboratory,2013,2014,"Perchlorate, Nitrate & Thiocyanate - 24-Hour Urine - First Collection",U1PN_H_R Doc,/Nchs/Nhanes/limited_access/U1PN_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2013,2014,"Perchlorate, Nitrate & Thiocyanate - 24-Hour Urine - Second Collection",U2PN_H_R Doc,/Nchs/Nhanes/limited_access/U2PN_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2005,2006,"Perchlorate, Nitrate & Thiocyanate - Urine",PERNT_D Doc,/Nchs/Nhanes/2005-2006/PERNT_D.htm,PERNT_D Data [XPT - 507.2 KB],/Nchs/Nhanes/2005-2006/PERNT_D.XPT,June 2011
 Laboratory,2007,2008,"Perchlorate, Nitrate & Thiocyanate - Urine",PERNT_E Doc,/Nchs/Nhanes/2007-2008/PERNT_E.htm,PERNT_E Data [XPT - 510.1 KB],/Nchs/Nhanes/2007-2008/PERNT_E.XPT,June 2011
 Laboratory,2011,2012,"Perchlorate, Nitrate & Thiocyanate - Urine",PERNT_G Doc,/Nchs/Nhanes/2011-2012/PERNT_G.htm,PERNT_G Data [XPT - 184.4 KB],/Nchs/Nhanes/2011-2012/PERNT_G.XPT,Updated October 2014
@@ -1280,6 +1474,8 @@ Laboratory,2017,2018,Phthalates and Plasticizers Metabolites - Urine ,PHTHTE_J D
 Laboratory,2013,2014,Phthalates and Plasticizers Metabolites - Urine (Surplus),SSPHTE_H Doc,/Nchs/Nhanes/2013-2014/SSPHTE_H.htm,SSPHTE_H Data [XPT - 129.1 KB],/Nchs/Nhanes/2013-2014/SSPHTE_H.XPT,Updated April 2022
 Laboratory,2001,2002,"Phthalates, Phytoestrogens & PAHs - Urine",PHPYPA_B Doc,/Nchs/Nhanes/2001-2002/PHPYPA_B.htm,PHPYPA_B Data [XPT - 707.7 KB],/Nchs/Nhanes/2001-2002/PHPYPA_B.XPT,Updated January 2012
 Laboratory,1999,2000,"Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates",PHPYPA Doc,/Nchs/Nhanes/1999-2000/PHPYPA.htm,PHPYPA Data [XPT - 1.4 MB],/Nchs/Nhanes/1999-2000/PHPYPA.XPT,Updated January 2012
+Laboratory,2014,2014,Phytoestrogen- 24-Hour Urine - First Collection,U1PT_H_R Doc,/Nchs/Nhanes/limited_access/U1PT_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2014,2014,Phytoestrogen- 24-Hour Urine - Second Collection,U2PT_H_R Doc,/Nchs/Nhanes/limited_access/U2PT_H_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2003,2004,Phytoestrogens - Urine,L06PHY_C Doc,/Nchs/Nhanes/2003-2004/L06PHY_C.htm,L06PHY_C Data [XPT - 191.6 KB],/Nchs/Nhanes/2003-2004/L06PHY_C.XPT,Updated August 2009
 Laboratory,2005,2006,Phytoestrogens - Urine,PHYTO_D Doc,/Nchs/Nhanes/2005-2006/PHYTO_D.htm,PHYTO_D Data [XPT - 312 KB],/Nchs/Nhanes/2005-2006/PHYTO_D.XPT,August 2011
 Laboratory,2007,2008,Phytoestrogens - Urine,PHYTO_E Doc,/Nchs/Nhanes/2007-2008/PHYTO_E.htm,PHYTO_E Data [XPT - 321.3 KB],/Nchs/Nhanes/2007-2008/PHYTO_E.XPT,July 2012
@@ -1340,11 +1536,14 @@ Laboratory,2009,2010,"Pyrethroids, Herbicides, & OP Metabolites - Urine",UPHOPM_
 Laboratory,2011,2012,"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine",UPHOPM_G Doc,/Nchs/Nhanes/2011-2012/UPHOPM_G.htm,UPHOPM_G Data [XPT - 276.6 KB],/Nchs/Nhanes/2011-2012/UPHOPM_G.XPT,September 2019
 Laboratory,2013,2014,"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine",UPHOPM_H Doc,/Nchs/Nhanes/2013-2014/UPHOPM_H.htm,UPHOPM_H Data [XPT - 347.8 KB],/Nchs/Nhanes/2013-2014/UPHOPM_H.XPT,May 2020
 Laboratory,2005,2006,Salmonella & Campylobacter Antibodies (Surplus),SSSAL_D Doc,/Nchs/Nhanes/2005-2006/SSSAL_D.htm,SSSAL_D Data [XPT - 63.4 KB],/Nchs/Nhanes/2005-2006/SSSAL_D.XPT,Updated April 2022
+Laboratory,2000,2000,Second Day Lab General Documentation,DOC_2000 Doc,/Nchs/Nhanes/limited_access/DOC_2000.htm,RDC Only,No Link,RDC Only
 Laboratory,1999,2000,Sex Steroid Hormone - Men (Surplus),SSCHL_A Doc,/Nchs/Nhanes/1999-2000/SSCHL_A.htm,SSCHL_A Data [XPT - 17.6 KB],/Nchs/Nhanes/1999-2000/SSCHL_A.XPT,Updated April 2022
 Laboratory,2001,2002,Sex Steroid Hormone - Men (Surplus),SSCHL_B Doc,/Nchs/Nhanes/2001-2002/SSCHL_B.htm,SSCHL_B Data [XPT - 22 KB],/Nchs/Nhanes/2001-2002/SSCHL_B.XPT,Updated April 2022
 Laboratory,2003,2004,Sex Steroid Hormone - Men (Surplus),SSCHL_C Doc,/Nchs/Nhanes/2003-2004/SSCHL_C.htm,SSCHL_C Data [XPT - 20.5 KB],/Nchs/Nhanes/2003-2004/SSCHL_C.XPT,Updated April 2022
 Laboratory,2013,2014,Sex Steroid Hormone - Serum,TST_H Doc,/Nchs/Nhanes/2013-2014/TST_H.htm,TST_H Data [XPT - 455.2 KB],/Nchs/Nhanes/2013-2014/TST_H.XPT,November 2018
 Laboratory,2015,2016,Sex Steroid Hormone - Serum,TST_I Doc,/Nchs/Nhanes/2015-2016/TST_I.htm,TST_I Data [XPT - 440.4 KB],/Nchs/Nhanes/2015-2016/TST_I.XPT,November 2018
+Laboratory,2019,2020,Sex Steroid Hormone Panel - Serum,TST_K_R Doc,/Nchs/Nhanes/limited_access/TST_K_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2010,2010,"Sodium, Potassium & Chloride - Casual Urine",SSUE10_R Doc,/Nchs/Nhanes/limited_access/SSUE10_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2015,2016,Speciated Arsenics - Urine,UAS_I Doc,/Nchs/Nhanes/2015-2016/UAS_I.htm,UAS_I Data [XPT - 361.3 KB],/Nchs/Nhanes/2015-2016/UAS_I.XPT,June 2018
 Laboratory,2015,2016,Speciated Arsenics - Urine - Special Sample,UASS_I Doc,/Nchs/Nhanes/2015-2016/UASS_I.htm,UASS_I Data [XPT - 272 KB],/Nchs/Nhanes/2015-2016/UASS_I.XPT,June 2018
 Laboratory,2007,2008,Standard Biochemistry Profile,BIOPRO_E Doc,/Nchs/Nhanes/2007-2008/BIOPRO_E.htm,BIOPRO_E Data [XPT - 2 MB],/Nchs/Nhanes/2007-2008/BIOPRO_E.XPT,Updated June 2010
@@ -1358,6 +1557,7 @@ Laboratory,2015,2016,Standard Biochemistry Profile ,BIOPRO_I Doc,/Nchs/Nhanes/20
 Laboratory,2017,2018,Standard Biochemistry Profile,BIOPRO_J Doc,/Nchs/Nhanes/2017-2018/BIOPRO_J.htm,BIOPRO_J Data [XPT - 2 MB],/Nchs/Nhanes/2017-2018/BIOPRO_J.XPT,February 2020
 Laboratory,2017,2020,Standard Biochemistry Profile,P_BIOPRO Doc,/Nchs/Nhanes/2017-2018/P_BIOPRO.htm,P_BIOPRO Data [XPT - 3.3 MB],/Nchs/Nhanes/2017-2018/P_BIOPRO.XPT,August 2021
 Laboratory,1999,2000,Standard Biochemistry Profile & Hormones,LAB18 Doc,/Nchs/Nhanes/1999-2000/LAB18.htm,LAB18 Data [XPT - 2.1 MB],/Nchs/Nhanes/1999-2000/LAB18.XPT,Updated August 2006
+Laboratory,2000,2000,"Standard Biochemistry Profile & Hormones, Second Exam",L18_2_00 Doc,/Nchs/Nhanes/limited_access/L18_2_00.htm,RDC Only,No Link,RDC Only
 Laboratory,2001,2002,"Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam",L40_2_B Doc,/Nchs/Nhanes/2001-2002/L40_2_B.htm,L40_2_B Data [XPT - 172.5 KB],/Nchs/Nhanes/2001-2002/L40_2_B.XPT,December 2008
 Laboratory,2003,2004,"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)",L36_C Doc,/Nchs/Nhanes/2003-2004/L36_C.htm,L36_C Data [XPT - 94.3 KB],/Nchs/Nhanes/2003-2004/L36_C.XPT,Updated April 2006
 Laboratory,2001,2002,"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)",L36_B Doc,/Nchs/Nhanes/2001-2002/L36_B.htm,L36_B Data [XPT - 104.4 KB],/Nchs/Nhanes/2001-2002/L36_B.XPT,Updated May 2004
@@ -1368,6 +1568,7 @@ Laboratory,2001,2002,Thyroid - Stimulating Hormone & Thyroxine (TSH & T4),L40T4_
 Laboratory,2007,2008,Thyroid Profile,THYROD_E Doc,/Nchs/Nhanes/2007-2008/THYROD_E.htm,THYROD_E Data [XPT - 705.1 KB],/Nchs/Nhanes/2007-2008/THYROD_E.XPT,Updated October 2015
 Laboratory,2009,2010,Thyroid Profile,THYROD_F Doc,/Nchs/Nhanes/2009-2010/THYROD_F.htm,THYROD_F Data [XPT - 280.9 KB],/Nchs/Nhanes/2009-2010/THYROD_F.XPT,Updated October 2015
 Laboratory,2011,2012,Thyroid Profile,THYROD_G Doc,/Nchs/Nhanes/2011-2012/THYROD_G.htm,THYROD_G Data [XPT - 240.8 KB],/Nchs/Nhanes/2011-2012/THYROD_G.XPT,Updated October 2014
+Laboratory,2019,2020,Thyroid Profile - Serum,THYD_K_R Doc,/Nchs/Nhanes/limited_access/THYD_K_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2001,2002,Thyroid Profile (Surplus),SSNH4THY Doc,/Nchs/Nhanes/2001-2002/SSNH4THY.htm,SSNH4THY Data [XPT - 143.3 KB],/Nchs/Nhanes/2001-2002/SSNH4THY.XPT,Updated April 2022
 Laboratory,2009,2010,Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA),TGEMA_F Doc,/Nchs/Nhanes/2009-2010/TGEMA_F.htm,TGEMA_F Data [XPT - 202.6 KB],/Nchs/Nhanes/2009-2010/TGEMA_F.XPT,September 2011
 Laboratory,2011,2012,Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA),TGEMA_G Doc,/Nchs/Nhanes/2011-2012/TGEMA_G.htm,TGEMA_G Data [XPT - 184.5 KB],/Nchs/Nhanes/2011-2012/TGEMA_G.XPT,September 2013
@@ -1390,6 +1591,13 @@ Laboratory,2001,2002,Transferrin Receptor - Pregnant Women (Surplus),SSTFR_B Doc
 Laboratory,1999,2000,Transferrin Receptor - Pregnant Women (Surplus),SSTFR_A Doc,/Nchs/Nhanes/1999-2000/SSTFR_A.htm,SSTFR_A Data [XPT - 7 KB],/Nchs/Nhanes/1999-2000/SSTFR_A.XPT,Updated April 2022
 Laboratory,2013,2014,Trichomonas - Urine,TRICH_H Doc,/Nchs/Nhanes/2013-2014/TRICH_H.htm,TRICH_H Data [XPT - 65.7 KB],/Nchs/Nhanes/2013-2014/TRICH_H.XPT,December 2016
 Laboratory,2015,2016,Trichomonas - Urine,TRICH_I Doc,/Nchs/Nhanes/2015-2016/TRICH_I.htm,TRICH_I Data [XPT - 62.4 KB],/Nchs/Nhanes/2015-2016/TRICH_I.XPT,December 2017
+Laboratory,2017,2018,Trichomonas - Urine - Adult,TRIA_J_R Doc,/Nchs/Nhanes/limited_access/TRIA_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Trichomonas - Urine - Adult,P_TRIA_R Doc,/Nchs/Nhanes/limited_access/P_TRIA_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2015,2016,Trichomonas - Urine - Youth ,TRIC_I_R Doc,/Nchs/Nhanes/limited_access/TRIC_I_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2018,Trichomonas - Urine - Youth ,TRIC_J_R Doc,/Nchs/Nhanes/limited_access/TRIC_J_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2017,2020,Trichomonas - Urine - Youth,P_TRIC_R Doc,/Nchs/Nhanes/limited_access/P_TRIC_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2013,2014,Trichomonas - Urine -Youth,TRIC_H_R Doc,/Nchs/Nhanes/limited_access/TRIC_H_R.htm,RDC Only,No Link,RDC Only
+Laboratory,2019,2020,Tuberculosis - Quantiferon TB Gold Plus,TB_K_R Doc,/Nchs/Nhanes/limited_access/TB_K_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2011,2012,Tuberculosis - Quantiferon_In_Gold,TB_G Doc,/Nchs/Nhanes/2011-2012/TB_G.htm,TB_G Data [XPT - 307 KB],/Nchs/Nhanes/2011-2012/TB_G.XPT,November 2013
 Laboratory,2009,2010,Urine Flow Rate,UCFLOW_F Doc,/Nchs/Nhanes/2009-2010/UCFLOW_F.htm,UCFLOW_F Data [XPT - 673.3 KB],/Nchs/Nhanes/2009-2010/UCFLOW_F.XPT,Updated April 2018
 Laboratory,2011,2012,Urine Flow Rate,UCFLOW_G Doc,/Nchs/Nhanes/2011-2012/UCFLOW_G.htm,UCFLOW_G Data [XPT - 613.1 KB],/Nchs/Nhanes/2011-2012/UCFLOW_G.XPT,Updated April 2018
@@ -1403,6 +1611,7 @@ Laboratory,2007,2008,Urine Specific Gravity Measurement (Surplus),SSUSG_E Doc,/N
 Laboratory,2003,2004,Varicella-Zoster Virus Antibody (Surplus),SSVARI_C Doc,/Nchs/Nhanes/2003-2004/SSVARI_C.htm,SSVARI_C Data [XPT - 6.2 KB],/Nchs/Nhanes/2003-2004/SSVARI_C.XPT,March 2009
 Laboratory,2001,2002,Varicella-Zoster Virus Antibody (Surplus),SSVARI_B Doc,/Nchs/Nhanes/2001-2002/SSVARI_B.htm,SSVARI_B Data [XPT - 6.2 KB],/Nchs/Nhanes/2001-2002/SSVARI_B.XPT,March 2009
 Laboratory,1999,2000,Varicella-Zoster Virus Antibody (Surplus),SSVARI_A Doc,/Nchs/Nhanes/1999-2000/SSVARI_A.htm,SSVARI_A Data [XPT - 5.2 KB],/Nchs/Nhanes/1999-2000/SSVARI_A.XPT,March 2009
+Laboratory,2000,2000,"Vitamin A & Vitamin E, Second Exam",VIT_2_R Doc,/Nchs/Nhanes/limited_access/VIT_2_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2005,2006,"Vitamin A, Vitamin E & Carotenoids",VITAEC_D Doc,/Nchs/Nhanes/2005-2006/VITAEC_D.htm,VITAEC_D Data [XPT - 1.5 MB],/Nchs/Nhanes/2005-2006/VITAEC_D.XPT,Updated October 2011
 Laboratory,2003,2004,"Vitamin A, Vitamin E & Carotenoids",L45VIT_C Doc,/Nchs/Nhanes/2003-2004/L45VIT_C.htm,L45VIT_C Data [XPT - 2.6 MB],/Nchs/Nhanes/2003-2004/L45VIT_C.XPT,October 2007
 Laboratory,2001,2002,"Vitamin A, Vitamin E & Carotenoids",L06VIT_B Doc,/Nchs/Nhanes/2001-2002/L06VIT_B.htm,L06VIT_B Data [XPT - 1.6 MB],/Nchs/Nhanes/2001-2002/L06VIT_B.XPT,October 2007
@@ -1435,6 +1644,7 @@ Laboratory,2011,2012,Volatile Organic Compound (VOC) Metabolites - Urine - Speci
 Laboratory,2013,2014,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,UVOCS_H Doc,/Nchs/Nhanes/2013-2014/UVOCS_H.htm,UVOCS_H Data [XPT - 1.1 MB],/Nchs/Nhanes/2013-2014/UVOCS_H.XPT,Updated November 2021
 Laboratory,2015,2016,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,UVOCS_I Doc,/Nchs/Nhanes/2015-2016/UVOCS_I.htm,UVOCS_I Data [XPT - 1.1 MB],/Nchs/Nhanes/2015-2016/UVOCS_I.XPT,Updated November 2021
 Laboratory,2005,2006,Volatile Organic Compound (VOC) Metabolites - Urine (Surplus),SSUVOC_D Doc,/Nchs/Nhanes/2005-2006/SSUVOC_D.htm,SSUVOC_D Data [XPT - 1.5 MB],/Nchs/Nhanes/2005-2006/SSUVOC_D.XPT,Updated April 2022
+Laboratory,2019,2020,Volatile Organic Compounds - A-Pinene - Blood ,VCWB_K_R Doc,/Nchs/Nhanes/limited_access/VCWB_K_R.htm,RDC Only,No Link,RDC Only
 Laboratory,2005,2006,Volatile Organic Compounds - Blood & Related Questionnaire Items,VOCWB_D Doc,/Nchs/Nhanes/2005-2006/VOCWB_D.htm,VOCWB_D Data [XPT - 2.4 MB],/Nchs/Nhanes/2005-2006/VOCWB_D.XPT,Updated February 2019
 Laboratory,2007,2008,Volatile Organic Compounds - Blood & Related Questionnaire Items,VOCWB_E Doc,/Nchs/Nhanes/2007-2008/VOCWB_E.htm,VOCWB_E Data [XPT - 2.3 MB],/Nchs/Nhanes/2007-2008/VOCWB_E.XPT,May 2016
 Laboratory,1999,2000,Volatile Organic Compounds - Blood & Water,LAB04 Doc,/Nchs/Nhanes/1999-2000/LAB04.htm,LAB04 Data [XPT - 306.1 KB],/Nchs/Nhanes/1999-2000/LAB04.XPT,December 2006
